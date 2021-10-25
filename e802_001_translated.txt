@@ -71,7 +71,7 @@
 ##-[s][f 1 5]Юкари[n][bup 2 8 65535 3]Sheesh, someone's full of energy[n]today... I could hear you from all the[n]way over there.[n][w][e]-##
 [s][f 1 5]Джунпэй[n][bup 5 1 65535 1]А?[n]Вы пришли сегодня поодиночке,[n]хотя живёте в одном общежитии?[n][w][e]
 ##-[s][f 1 5]Джунпэй[n][bup 5 1 65535 1]Huh? You two came separately today even[n]though you guys are in the same dorm?[n][w][e]-##
-[s][f 1 5]Юкари[n][bup 2 3 65535 3]Слушай, нас всех уже маленько[n]достали твои дуракцие сплетни![n][w][e]
+[s][f 1 5]Юкари[n][bup 2 3 65535 3]Слушай, нас всех уже маленько[n]достали твои дурацкие сплетни![n][w][e]
 ##-[s][f 1 5]Юкари[n][bup 2 3 65535 3]Ugh, we're all tired of hearing you[n]talk about that.[n][w][e]-##
 [s][f 4 7 0 0 0][bup 2 1 65535 0]...[f 4 2]-кун, тебе полегчало?[n][w][e]
 ##-[s][f 4 7 0 0 0][bup 2 1 65535 0]...[f 4 2]-kun, are you feeling better?[n][w][e]-##
@@ -95,7 +95,7 @@
 ##-[s][f 1 5]Юкари[n][bup 2 8 65535 3]Sheesh, someone's full of energy[n]today... I could hear you from all the[n]way over there.[n][w][e]-##
 [s][f 1 5]Джунпэй[n][bup 5 1 65535 1]А?[n]Вы пришли сегодня поодиночке,[n]хотя живёте в одном общежитии?[n][w][e]
 ##-[s][f 1 5]Джунпэй[n][bup 5 1 65535 1]Huh? You two came separately today even[n]though you guys are in the same dorm?[n][w][e]-##
-[s][f 1 5]Юкари[n][bup 2 3 65535 3]Слушай, нас всех уже маленько[n]достали твои дуракцие сплетни![n][w][e]
+[s][f 1 5]Юкари[n][bup 2 3 65535 3]Слушай, нас всех уже маленько[n]достали твои дурацкие сплетни![n][w][e]
 ##-[s][f 1 5]Юкари[n][bup 2 3 65535 3]Ugh, we're all tired of hearing you[n]talk about that.[n][w][e]-##
 [s][f 4 7 0 0 0][bup 2 1 65535 0]...[f 4 2]-кун, тебе полегчало?[n][w][e]
 ##-[s][f 4 7 0 0 0][bup 2 1 65535 0]...[f 4 2]-kun, are you feeling better?[n][w][e]-##
