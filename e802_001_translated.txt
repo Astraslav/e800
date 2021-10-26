@@ -18,7 +18,7 @@
 [s][bup 22 1 65535 0]Ха, так и знал.[n][w][e]
 ##-[s][bup 22 1 65535 0]Man, I knew it.[n][w][e]-##
 [s]Я слышал от Джунпея, что вы с Юкари-сан[n]довольно близки...[n][w][e]
-##-[s]I heard from Джунпэй that you're[n]pretty close with Юкари-san.[n][w][e]-##
+##-[s]I heard from Джунпей that you're[n]pretty close with Юкари-san.[n][w][e]-##
 [s]Как так вышло?[[n][w][e]
 ##-[s]...What's up with that?[n][w][e]-##
 [s]Хотя меня это не шибко волнует.[n]Мне интересны особы с чуть большим[n]опытом.[n][w][e]
@@ -32,7 +32,7 @@
 [s][bup 22 1 65535 0]Ха, так и знал.[n][w][e]
 ##-[s][bup 22 1 65535 0]Man, I knew it.[n][w][e]-##
 [s]Я слышал от Джунпея, что вы с Юкари-сан[n]довольно близки...[n][w][e]
-##-[s]I heard from Джунпэй that you're[n]pretty close with Юкари-san.[n][w][e]-##
+##-[s]I heard from Джунпей that you're[n]pretty close with Юкари-san.[n][w][e]-##
 [s]Как так вышло?[[n][w][e]
 ##-[s]...What's up with that?[n][w][e]-##
 [s]Хотя меня это не шибко волнует.[n]Мне интересны особы с чуть большим[n]опытом.[n][w][e]
@@ -213,8 +213,8 @@
 ##-[s][bup 2 1 65535 0]We shouldn't get carried away, though,[n]cuz we have midterms next week.[n][w][e]-##
 [s]Давайте просто надеяться, что ничего[n]подобного больше не повторится, пока не[n]закончатся промежуточные экзамены.[n][w][e]
 ##-[s]Let's just hope nothing like that happens[n]again until midterms are over.[n][w][e]-##
-[s]О, это напомнило мне, что Джунпэй мне[n]кое-что сказал...[n][w][e]
-##-[s]Oh, that reminds me, Джунпэй told me[n]something...[n][w][e]-##
+[s]О, это напомнило мне, что Джунпей мне[n]кое-что сказал...[n][w][e]
+##-[s]Oh, that reminds me, Джунпей told me[n]something...[n][w][e]-##
 [s]Мицуру-семпай предположительно даст нам[n]что-то хорошее, если мы хорошо сдадим наши[n]тесты.[n][w][e]
 ##-[s]Мицуру-senpai supposedly is going to[n]give us something nice if we do well on[n]our tests.[n][w][e]-##
 [s][bup 2 8 65535 0]Держу пари, стандарты Мицуру-семпай[n]настолько высоки, что она не даст нам[n]ничего, если мы не будем в первой десятке в[n]нашем классе...[n][w][e]
@@ -229,14 +229,14 @@
 ##-[s][bup 2 1 65535 0]We shouldn't get carried away, though,[n]cuz we have midterms next week.[n][w][e]-##
 [s]Давайте просто надеяться, что ничего[n]подобного больше не повторится, пока не[n]закончатся промежуточные экзамены.[n][w][e]
 ##-[s]Let's just hope nothing like that happens[n]again until midterms are over.[n][w][e]-##
-[s]О, это напомнило мне, что Джунпэй мне[n]кое-что сказал...[n][w][e]
-##-[s]Oh, that reminds me, Джунпэй told me[n]something...[n][w][e]-##
+[s]О, это напомнило мне, что Джунпей мне[n]кое-что сказал...[n][w][e]
+##-[s]Oh, that reminds me, Джунпей told me[n]something...[n][w][e]-##
 [s]Мицуру-семпай предположительно даст нам[n]что-то хорошее, если мы хорошо сдадим наши[n]тесты.[n][w][e]
 ##-[s]Мицуру-senpai supposedly is going to[n]give us something nice if we do well on[n]our tests.[n][w][e]-##
 [s][bup 2 8 65535 0]Держу пари, стандарты Мицуру-семпай[n]настолько высоки, что она не даст нам[n]ничего, если мы не будем в первой десятке в[n]нашем классе...[n][w][e]
 ##-[s][bup 2 8 65535 0]I bet Мицуру-senpai's standards are so[n]high that she won't give us anything[n]unless we're top ten in our grade...[n][w][e]-##
 
-[msg MSG_020 [Джунпэй]]
+[msg MSG_020 [Джунпей]]
 [s][bup 5 1 65535 0]Чё как? Сегодня просто обычный день, да?[n][w][e]
 ##-[s][bup 5 1 65535 0]Wazzup? Today is just an ordinary day,[n]huh?[n][w][e]-##
 [s]Хотя позавчера это было безумием.[n][w][e]
@@ -258,7 +258,7 @@
 [s]"Вовсе нет".[e]
 ##-[s]"Not at all."[e]-##
 
-[msg MSG_022 [Джунпэй]]
+[msg MSG_022 [Джунпей]]
 [s][bup 5 2 65535 0]Полностью.[n][w][e]
 ##-[s][bup 5 2 65535 0]Totally.[n][w][e]-##
 [s]...Мы выиграли битву и спасли город...[n][w][e]
@@ -266,7 +266,7 @@
 [s]Как это мило!?[n][w][e]
 ##-[s]How sweet is that!?[n][w][e]-##
 
-[msg MSG_023 [Джунпэй]]
+[msg MSG_023 [Джунпей]]
 [s][bup 5 2 65535 0]Чувак, ты что, с ума сошел?! У нас есть[n]сила Персоны![n][w][e]
 ##-[s][bup 5 2 65535 0]Dude, are you crazy!? We've got[n]the power of Persona![n][w][e]-##
 [s]Плюс, мы выиграли битву и спасли город...[n][w][e]
@@ -440,7 +440,7 @@
 [s]Но это означает, что я должен начать[n]тренироваться прямо сейчас.[n][w][e]
 ##-[s]But, that means I've got to start[n]training now.[n][w][e]-##
 
-[msg MSG_040 [Джунпэй]]
+[msg MSG_040 [Джунпей]]
 [s][bup 5 1 65535 0]Йоу... Блин, я сегодня такой сонный.[n][w][e]
 ##-[s][bup 5 1 65535 0]Yo...[n]Man, I'm so sleepy today.[n][w][e]-##
 [s][bup 5 2 65535 0]В такие времена, как сейчас, лучше всего[n]спать во время занятий![n][w][e]
@@ -460,7 +460,7 @@
 [s]"Не спи в классе".[e]
 ##-[s]"Don't sleep in class."[e]-##
 
-[msg MSG_042 [Джунпэй]]
+[msg MSG_042 [Джунпей]]
 [s][bup 5 2 65535 0]Верно? Вы снова превращаетесь из мертвого в[n]полностью наполненного энергией. Это такое[n]прекрасное чувство.[n][w][e]
 ##-[s][bup 5 2 65535 0]Right? You go from dead to being[n]completely full of energy again. It's[n]such a great feeling.[n][w][e]-##
 [s]...С другой стороны, я не слушаю лекцию,[n]так что я облажаюсь позже![n][w][e]
@@ -468,7 +468,7 @@
 [s]О, но сегодня у нас есть классическая[n]литература... Это означает, что мы застряли[n]с мистером Мерзким стариной Экодой...[n][w][e]
 ##-[s]Oh, but we have classic literature[n]today... That means we're stuck with[n]Mr. Nasty ol' Ekoda...[n][w][e]-##
 
-[msg MSG_043 [Джунпэй]]
+[msg MSG_043 [Джунпей]]
 [s][bup 5 5 65535 0]Что? Почему ты должен быть таким серьезным?[n][w][e]
 ##-[s][bup 5 5 65535 0]Whaaat? Why do you have to be all[n]serious?[n][w][e]-##
 [s]Это ощущение полной перезарядки просто[n]потрясающее... Но я облажался позже, так[n]как не слышал лекции![n][w][e]
@@ -563,8 +563,8 @@
 [msg MSG_052 [Юкари]]
 [s][bup 2 1 65535 0]Доброе утро. Ты, как всегда, пунктуален,[n][f 4 2]-[n]кун.[n][w][e]
 ##-[s][bup 2 1 65535 0]Mornin'. You're as punctual as always,[n][f 4 2]-kun.[n][w][e]-##
-[s]Джунпэй выглядел так, словно мир вот-вот[n]закончится.[n][w][e]
-##-[s]Джунпэй looked like the world is[n]about to end.[n][w][e]-##
+[s]Джунпей выглядел так, словно мир вот-вот[n]закончится.[n][w][e]
+##-[s]Джунпей looked like the world is[n]about to end.[n][w][e]-##
 
 [sel SEL053 top]
 [s]"действительно?"[e]
@@ -608,7 +608,7 @@
 [s]В любом случае, иметь другого[n]пользователя-персоны не может быть плохо![n][w][e]
 ##-[s]Either way, having another Persona-user[n]can't be a bad thing![n][w][e]-##
 
-[msg MSG_056 [Джунпэй]]
+[msg MSG_056 [Джунпей]]
 [s][bup 5 4 65535 0]Как дела, чувак?[n][w][e]
 ##-[s][bup 5 4 65535 0]S'uuup, dude?[n][w][e]-##
 [s]Эй, как у тебя дела на экзаменах?..[n][w][e]
@@ -626,7 +626,7 @@
 [s]"Полностью разбомбил их..."[e]
 ##-[s]"Completely bombed them..."[e]-##
 
-[msg MSG_058 [Джунпэй]]
+[msg MSG_058 [Джунпей]]
 [s][bup 5 4 65535 0]Серьезно...?[n][w][e]
 ##-[s][bup 5 4 65535 0]Seriously...?[n][w][e]-##
 [s]Чувак, я посмешище...[n][w][e]
@@ -642,7 +642,7 @@
 [s]В любом случае, мы можем заполучить еще[n]одну девушку в нашу команду![n][w][e]
 ##-[s]We might be getting another girl[n]on our team anyways![n][w][e]-##
 
-[msg MSG_059 [Джунпэй]]
+[msg MSG_059 [Джунпей]]
 [s][bup 5 5 65535 0]Серьёзно? Но ваши баллы должны быть выше[n]моих...[n][w][e]
 ##-[s][bup 5 5 65535 0]Seriously? But, your scores have[n]to be higher than mine...[n][w][e]-##
 [s][bup 5 4 65535 0]Чувак, я посмешище...[n][w][e]
@@ -658,7 +658,7 @@
 [s]В любом случае, мы можем заполучить еще[n]одну девушку в нашу команду![n][w][e]
 ##-[s]We might be getting another girl[n]on our team anyways![n][w][e]-##
 
-[msg MSG_060 [Джунпэй]]
+[msg MSG_060 [Джунпей]]
 [s][bup 5 1 65535 0]Эй, чувак!? Итак, что ты думаешь...?[n][w][e]
 ##-[s][bup 5 1 65535 0]S'up, dude!? So, whaddya think...?[n][w][e]-##
 
@@ -674,7 +674,7 @@
 [s]"Успокойся".[e]
 ##-[s]"Calm down."[e]-##
 
-[msg MSG_062 [Джунпэй]]
+[msg MSG_062 [Джунпей]]
 [s][bup 5 3 65535 0]О Фууке Ямагиси, конечно. Я не теряю[n]надежды, что она присоединится к нашей[n]команде.[n][w][e]
 ##-[s][bup 5 3 65535 0]About Фука Yamagishi, of course.[n]I haven't given up hope that she'll[n]join our team.[n][w][e]-##
 [s][bup 5 2 65535 0]Чувак, ее лицо кажется таким знакомым.[n][w][e]
@@ -682,7 +682,7 @@
 [s]Она действительно выглядит немного слабой,[n]но это только заставляет меня хотеть[n]защитить ее, понимаешь?[n][w][e]
 ##-[s]She does look kinda weak, but it[n]only makes me wanna protect her,[n]ya know?[n][w][e]-##
 
-[msg MSG_063 [Джунпэй]]
+[msg MSG_063 [Джунпей]]
 [s][bup 5 3 65535 0]Как я могу быть спокоен, когда другая[n]цыпочка может прийти в наше общежитие!?[n][w][e]
 ##-[s][bup 5 3 65535 0]How can I be calm when another chick[n]might be coming to our dorm!?[n][w][e]-##
 [s][bup 5 2 65535 0]Фуука Ямагиси... Я знаю, что видел ее[n]раньше...[n][w][e]
@@ -728,7 +728,7 @@
 [s]Я тоже на тебя рассчитываю.[n][w][e]
 ##-[s]I'm counting on you too.[n][w][e]-##
 
-[msg MSG_068 [Джунпэй]]
+[msg MSG_068 [Джунпей]]
 [s][bup 5 1 65535 0]Как дела, чувак?[n][w][e]
 ##-[s][bup 5 1 65535 0]S'up, dude?[n][w][e]-##
 [s]Эй, ты копаешься в этой истории о[n]привидениях?[n][w][e]
@@ -746,7 +746,7 @@
 [s]"Немного..."[e]
 ##-[s]"A little..."[e]-##
 
-[msg MSG_070 [Джунпэй]]
+[msg MSG_070 [Джунпей]]
 [s][bup 5 1 65535 0]Серьёзно? Разве мы не должны просто[n]оставить это Юке-тан?[n][w][e]
 ##-[s][bup 5 1 65535 0]Seriously? Shouldn't we just leave that[n]to Yuka-tan?[n][w][e]-##
 [s]У меня есть дела поважнее...[n][w][e]
@@ -756,7 +756,7 @@
 [s]Держу пари, ты был серьезно напуган, когда[n]услышал эту историю прошлой ночью. Хотя они[n]говорят, что это правда.[n][w][e]
 ##-[s]I bet you were seriously creeped out[n]when you heard that story the other[n]night. They say it's true, though.[n][w][e]-##
 
-[msg MSG_071 [Джунпэй]]
+[msg MSG_071 [Джунпей]]
 [s][bup 5 1 65535 0]Я знаю, что ты лжешь, чувак.[n][w][e]
 ##-[s][bup 5 1 65535 0]I know you're lying, man.[n][w][e]-##
 [s]Что касается меня, то у меня есть дела[n]поважнее... Я говорю, просто предоставь это[n]Юка-тан.[n][w][e]
@@ -1020,7 +1020,7 @@
 [s][bup 4 1 65535 0]Несмотря на то, что я немного отстала от[n]практики, я скоро вернусь к своей прежней[n]форме.[n][w][e]
 ##-[s][bup 4 1 65535 0]Even though I'm a bit out of practice,[n]I will soon return to my prior form.[n][w][e]-##
 
-[msg MSG_100 [Джунпэй]]
+[msg MSG_100 [Джунпей]]
 [s][bup 5 2 65535 0]Йоу, [f 4 2]! Твой желудок готов?![n][w][e]
 ##-[s][bup 5 2 65535 0]Yo, [f 4 2]![n]Is your stomach ready!?[n][w][e]-##
 [s]Сегодня большой праздник! Я буду есть так,[n]как будто завтра не наступит![n][w][e]
@@ -1038,13 +1038,13 @@
 [s]"Может быть, это будет более потрясающе".[e]
 ##-[s]"Maybe it'll be more awesome."[e]-##
 
-[msg MSG_102 [Джунпэй]]
+[msg MSG_102 [Джунпей]]
 [s][bup 5 2 65535 0]Я тоже! Я ничего не ела со вчерашнего дня![n][w][e]
 ##-[s][bup 5 2 65535 0]Me too! I haven't eaten anything[n]since yesterday![n][w][e]-##
 [s]Тебе лучше вернуться сразу после школы,[n]чувак! Я буду ждать.[n][w][e]
 ##-[s]You better come back right after[n]school, man! I'll be waiting.[n][w][e]-##
 
-[msg MSG_103 [Джунпэй]]
+[msg MSG_103 [Джунпей]]
 [s][bup 5 2 65535 0]Т-ты в чем-то прав! Мы говорим о[n]Мицуру-семпае... Может быть, мы возьмем[n]краба и иглобрюха...!?[n][w][e]
 ##-[s][bup 5 2 65535 0]Y-You've got a point! This is[n]Мицуру-senpai we're talkin' about...[n]Maybe we'll get crab and blowfish...!?[n][w][e]-##
 [s]Тебе лучше вернуться сразу после школы,[n]чувак! Я буду ждать. [n][w][e]
@@ -1080,7 +1080,7 @@
 [s]Я уверен, что она чувствует себя немного[n]подавленной. Конечно, я ее не виню.[n][w][e]
 ##-[s]I'm sure she's feeling kinda down.[n]I don't blame her, of course.[n][w][e]-##
 
-[msg MSG_108 [Джунпэй]]
+[msg MSG_108 [Джунпей]]
 [s][bup 5 4 65535 0]Все. Как ты спал прошлой ночью?[n][w][e]
 ##-[s][bup 5 4 65535 0]S'up. How'd you sleep last night?[n][w][e]-##
 
@@ -1096,13 +1096,13 @@
 [s]"Вовсе нет".[e]
 ##-[s]"Not at all."[e]-##
 
-[msg MSG_110 [Джунпэй]]
+[msg MSG_110 [Джунпей]]
 [s][bup 5 4 65535 0]Чувак, тебе повезло... Я не мог перестать[n]думать обо всем, что произошло...[n][w][e]
 ##-[s][bup 5 4 65535 0]Dude, you're lucky... I couldn't[n]stop thinkin' about everything[n]that's happened...[n][w][e]-##
 [s]Я не знаю, что делать, чувак...[n][w][e]
 ##-[s]I don't know what to do, man...[n][w][e]-##
 
-[msg MSG_111 [Джунпэй]]
+[msg MSG_111 [Джунпей]]
 [s][bup 5 4 65535 0]Услышав это, я чувствую себя немного[n]лучше... Ты тоже не можешь перестать думать[n]о всякой ерунде...?[n][w][e]
 ##-[s][bup 5 4 65535 0]I feel a little better after hearing[n]that... Ya can't stop thinking about[n]stuff either...?[n][w][e]-##
 [s]Я не знаю, что делать, чувак...[n][w][e]
@@ -1542,7 +1542,7 @@
 [s][bup 2 4 65535 0]Это начинает меня раздражать...[n][w][e]
 ##-[s][bup 2 4 65535 0]It's starting to get to me...[n][w][e]-##
 
-[msg MSG_168 [Джунпэй]]
+[msg MSG_168 [Джунпей]]
 [s][bup 5 1 65535 0]Йоу!...Эй, это только мне кажется, или[n]Юка-тан в последнее время странно себя[n]ведет?[n][w][e]
 ##-[s][bup 5 1 65535 0]Yo! ...Hey, is it just me, or has[n]Yuka-tan been acting weird lately?[n][w][e]-##
 
@@ -1558,7 +1558,7 @@
 [s]"Ты тоже так думаешь?"[e]
 ##-[s]"You think so too?"[e]-##
 
-[msg MSG_170 [Джунпэй]]
+[msg MSG_170 [Джунпей]]
 [s][bup 5 1 65535 0]Чувак, где ты был? Мы живем в одном здании![n][w][e]
 ##-[s][bup 5 1 65535 0]Dude, where have you been?[n]We live in the same building![n][w][e]-##
 [s]Она слишком много думала о Тартаре и[n]прочем.[n][w][e]
@@ -1566,7 +1566,7 @@
 [s]Я имею в виду, кого это волнует!? Верно?[n][w][e]
 ##-[s]I mean, who cares!? Right?[n][w][e]-##
 
-[msg MSG_171 [Джунпэй]]
+[msg MSG_171 [Джунпей]]
 [s][bup 5 1 65535 0]О, вы тоже это заметили?[n][w][e]
 ##-[s][bup 5 1 65535 0]Oh, you noticed it too?[n][w][e]-##
 [s]Она слишком много думала о Тартаре и[n]прочем.[n][w][e]
@@ -1682,7 +1682,7 @@
 [s]Я думаю, мы должны сделать это, несмотря ни[n]на что...[n][w][e]
 ##-[s]I guess we have to do this[n]no matter what...[n][w][e]-##
 
-[msg MSG_184 [Джунпэй]]
+[msg MSG_184 [Джунпей]]
 [s][bup 5 1 65535 0]Эй, в чем дело? Завтра большой день.[n][w][e]
 ##-[s][bup 5 1 65535 0]Yo, what's up? Tomorrow's the big day.[n][w][e]-##
 
@@ -1698,13 +1698,13 @@
 [s]"Завтра?"[e]
 ##-[s]"Tomorrow?"[e]-##
 
-[msg MSG_186 [Джунпэй]]
+[msg MSG_186 [Джунпей]]
 [s][bup 5 8 65535 0]Чувак, я в полном восторге... например,[n]прямо перед турниром или чем-то в этом[n]роде, понимаешь?[n][w][e]
 ##-[s][bup 5 8 65535 0]Dude, I'm totally stoked...[n]like right before a tournament[n]or somethin', ya know?[n][w][e]-##
 [s]Теперь я знаю, что чувствует Акихико-семпай[n]перед тем, как выйти на ринг...[n][w][e]
 ##-[s]Now, I know how Акихико-senpai feels[n]before he gets in the ring...[n][w][e]-##
 
-[msg MSG_187 [Джунпэй]]
+[msg MSG_187 [Джунпей]]
 [s][bup 5 9 65535 0]Хеллооооо!? Сейчас полнолуние!![n][w][e]
 ##-[s][bup 5 9 65535 0]Helloooooo!? It's a full moon!![n][w][e]-##
 [s]И вот я начинаю нервничать...[n][w][e]
@@ -1748,7 +1748,7 @@
 [s]Не забывай, сейчас же. Мы встретимся в[n]общежитии после школы.[n][w][e]
 ##-[s]Don't forget, now. We'll meet at[n]the dorm after school.[n][w][e]-##
 
-[msg MSG_192 [Джунпэй]]
+[msg MSG_192 [Джунпей]]
 [s][bup 5 1 65535 0]Эй, в чем дело?..[n][w][e]
 ##-[s][bup 5 1 65535 0]Hey, what's up...?[n][w][e]-##
 [s]......[n][w][e]
@@ -1768,19 +1768,19 @@
 [s]"Вовсе нет".[e]
 ##-[s]"Not at all."[e]-##
 
-[msg MSG_194 [Джунпэй]]
+[msg MSG_194 [Джунпей]]
 [s][bup 5 1 65535 0]...Серьезно?[n][w][e]
 ##-[s][bup 5 1 65535 0]...Seriously?[n][w][e]-##
 [s]Как будто мне не все равно...[n][w][e]
 ##-[s]Like I care...[n][w][e]-##
 
-[msg MSG_195 [Джунпэй]]
+[msg MSG_195 [Джунпей]]
 [s][bup 5 1 65535 0]...Серьезно?[n][w][e]
 ##-[s][bup 5 1 65535 0]...Seriously?[n][w][e]-##
 [s]Как будто мне не все равно...[n][w][e]
 ##-[s]Like I care...[n][w][e]-##
 
-[msg MSG_196 [Джунпэй]]
+[msg MSG_196 [Джунпей]]
 [s][bup 5 1 65535 0]Й-Йо, в чем дело?[n][w][e]
 ##-[s][bup 5 1 65535 0]Y-Yo, what's up?[n][w][e]-##
 [s]......[n][w][e]
@@ -1800,13 +1800,13 @@
 [s]"Как у тебя дела?"[e]
 ##-[s]"How've you been doing?"[e]-##
 
-[msg MSG_198 [Джунпэй]]
+[msg MSG_198 [Джунпей]]
 [s][bup 5 1 65535 0]Чувак, я не могу дождаться, чтобы выпустить[n]пар...[n][w][e]
 ##-[s][bup 5 1 65535 0]Dude, I can't wait to let off[n]some steam...[n][w][e]-##
 [s]Разве ты просто не любишь лето...?[n][w][e]
 ##-[s]Don't you just love summer...?[n][w][e]-##
 
-[msg MSG_199 [Джунпэй]]
+[msg MSG_199 [Джунпей]]
 [s][bup 5 1 65535 0]Н-не спрашивай.[n][w][e]
 ##-[s][bup 5 1 65535 0]D-Don't ask.[n][w][e]-##
 [s]Я не могу дождаться, чтобы выпустить пар...[n][w][e]
@@ -1814,7 +1814,7 @@
 [s]Разве ты просто не любишь лето...?[n][w][e]
 ##-[s]Don't you just love summer...?[n][w][e]-##
 
-[msg MSG_200 [Джунпэй]]
+[msg MSG_200 [Джунпей]]
 [s][bup 5 1 65535 0]Ага....Эй, я тут подумал...[n][w][e]
 ##-[s][bup 5 1 65535 0]S'up. ...Hey, I was thinkin'...[n][w][e]-##
 [s]После того, как мы победим все Тени и[n]Темный Час исчезнет, что произойдет тогда?[n][w][e]
@@ -1832,7 +1832,7 @@
 [s]"Там будет мир!"[e]
 ##-[s]"There'll be peace!"[e]-##
 
-[msg MSG_202 [Джунпэй]]
+[msg MSG_202 [Джунпей]]
 [s][bup 5 1 65535 0]Ну, обычные люди даже не знают о Темном[n]Часе, верно?[n][w][e]
 ##-[s][bup 5 1 65535 0]Well, regular people don't even know[n]about the Dark Hour, right?[n][w][e]-##
 [s]Это означает, что никто никогда не узнает о[n]том, что мы сделали...[n][w][e]
@@ -1840,7 +1840,7 @@
 [s]Это своего рода отстой, тебе не кажется?[n][w][e]
 ##-[s]That kinda sucks, don't ya think?[n][w][e]-##
 
-[msg MSG_203 [Джунпэй]]
+[msg MSG_203 [Джунпей]]
 [s][bup 5 1 65535 0]Ну, да, но...[n][w][e]
 ##-[s][bup 5 1 65535 0]Well, yeah, but...[n][w][e]-##
 [s]Обычные люди даже не знают о Темном Часе,[n]верно?[n][w][e]
@@ -1850,7 +1850,7 @@
 [s]Это своего рода отстой, тебе не кажется?[n][w][e]
 ##-[s]That kinda sucks, don't ya think?[n][w][e]-##
 
-[msg MSG_204 [Джунпэй]]
+[msg MSG_204 [Джунпей]]
 [s][bup 5 2 65535 0]Чувак, завтра начинаются летние каникулы![n]Пришло время встретиться с некоторыми[n]милашками на пляже![n][w][e]
 ##-[s][bup 5 2 65535 0]Dude, summer break starts tomorrow![n]It's time to meet some cuties at[n]the beach![n][w][e]-##
 [s]Знаешь, если ты подумаешь об этом, нам[n]очень повезло, что мы живем в общежитии...[n][w][e]
@@ -1870,7 +1870,7 @@
 [s]"Я думаю".[e]
 ##-[s]"I guess."[e]-##
 
-[msg MSG_206 [Джунпэй]]
+[msg MSG_206 [Джунпей]]
 [s][bup 5 2 65535 0]Да, но было бы трудно быть с кем-то из них[n]больше, чем просто друзьями...[n][w][e]
 ##-[s][bup 5 2 65535 0]Yeah, but it'd be tough to be more than[n]just friends with any of 'em...[n][w][e]-##
 [s][bup 5 9 65535 0]Семпай - самая умная девочка в школе и[n]президент студенческого совета...[n][w][e]
@@ -1884,7 +1884,7 @@
 [s][bup 5 2 65535 0]...Эй, не говори никому из них, что я[n]говорил об этом, хорошо?![n][w][e]
 ##-[s][bup 5 2 65535 0]...Hey, don't tell any of them I was[n]talking about this, alright!?[n][w][e]-##
 
-[msg MSG_207 [Джунпэй]]
+[msg MSG_207 [Джунпей]]
 [s][bup 5 5 65535 0]Эй, давай, чувак! Будьте честны! Это[n]мужской разговор![n][w][e]
 ##-[s][bup 5 5 65535 0]Hey, c'mon, dude! Be honest![n]This is guy talk![n][w][e]-##
 [s][bup 5 9 65535 0]Но ты знаешь, было бы трудно быть с кем-то[n]из них больше, чем просто друзьями...[n][w][e]
@@ -1930,7 +1930,7 @@
 [s][bup 4 1 65535 0]Нам просто нужно все время быть начеку...[n][w][e]
 ##-[s][bup 4 1 65535 0]We will just have to remain alert[n]at all times...[n][w][e]-##
 
-[msg MSG_212 [Джунпэй]]
+[msg MSG_212 [Джунпей]]
 [s][bup 5 1 65535 0]Эй, чувак!? Завтра полнолуние![n][w][e]
 ##-[s][bup 5 1 65535 0]S'up, dude!? There's a full moon[n]tomorrow![n][w][e]-##
 [s]...Ты помнишь?[n][w][e]
@@ -1950,7 +1950,7 @@
 [s]"Итак, что насчет этого?"[e]
 ##-[s]"So, what about it?"[e]-##
 
-[msg MSG_214 [Джунпэй]]
+[msg MSG_214 [Джунпей]]
 [s][bup 5 1 65535 0]Осталось всего четыре Тени... Может быть,[n]они впадают в отчаяние.[n][w][e]
 ##-[s][bup 5 1 65535 0]There's only four Shadows left...[n]Maybe they're gettin' desperate.[n][w][e]-##
 [s]...Или, может быть, следующий просто[n]безумно силен![n][w][e]
@@ -1960,7 +1960,7 @@
 [s]Что ж, мы справимся с этим![n][w][e]
 ##-[s]Well, we can handle it![n][w][e]-##
 
-[msg MSG_215 [Джунпэй]]
+[msg MSG_215 [Джунпей]]
 [s][bup 5 5 65535 0]И что? Чувак, как ты можешь быть таким[n]спокойным?[n][w][e]
 ##-[s][bup 5 5 65535 0]So? Dude, how can you be so calm?[n][w][e]-##
 [s][bup 5 1 65535 0]Осталось всего четыре Тени... Может быть,[n]они впадают в отчаяние.[n][w][e]
@@ -1977,20 +1977,20 @@
 ##-[s][bup 2 1 65535 0]Mornin'.[n][w][e]-##
 [s]Не похоже, что Чидори собирается говорить,[n]не так ли?[n][w][e]
 ##-[s]It doesn't seem like Chidori is[n]gonna talk, does it?[n][w][e]-##
-[s]Джунпэй действительно беспокоится о ней...[n][w][e]
-##-[s]Джунпэй is really worried about her...[n][w][e]-##
+[s]Джунпей действительно беспокоится о ней...[n][w][e]
+##-[s]Джунпей is really worried about her...[n][w][e]-##
 [s]Интересно, что случилось?..[n][w][e]
 ##-[s]I wonder what happened...[n][w][e]-##
 
 [sel SEL217 top]
-[s]"Это Джунпэй".[e]
-##-[s]"That's Джунпэй."[e]-##
+[s]"Это Джунпей".[e]
+##-[s]"That's Джунпей."[e]-##
 [s]"Я не знаю".[e]
 ##-[s]"I don't know."[e]-##
 
 [sel SEL217_G top]
-[s]"Это Джунпэй".[e]
-##-[s]"That's Джунпэй."[e]-##
+[s]"Это Джунпей".[e]
+##-[s]"That's Джунпей."[e]-##
 [s]"Хмм..."[e]
 ##-[s]"Hmm..."[e]-##
 
@@ -2002,7 +2002,7 @@
 [s][bup 2 4 65535 0]Что ж, это заставляет меня беспокоиться...[n][w][e]
 ##-[s][bup 2 4 65535 0]Well, it makes me worry...[n][w][e]-##
 
-[msg MSG_220 [Джунпэй]]
+[msg MSG_220 [Джунпей]]
 [s][bup 5 1 65535 0]Все в порядке, [f 4 2].[n][w][e]
 ##-[s][bup 5 1 65535 0]S'up, [f 4 2].[n][w][e]-##
 [s]Извини, что меня не было рядом...[n][w][e]
@@ -2024,11 +2024,11 @@
 [s]"Береги себя".[e]
 ##-[s]"Take care of yourself."[e]-##
 
-[msg MSG_222 [Джунпэй]]
+[msg MSG_222 [Джунпей]]
 [s][bup 5 1 65535 0]Да... Спасибо, чувак.[n][w][e]
 ##-[s][bup 5 1 65535 0]Yeah... Thanks, man.[n][w][e]-##
 
-[msg MSG_223 [Джунпэй]]
+[msg MSG_223 [Джунпей]]
 [s][bup 5 1 65535 0]Да... Спасибо.[n][w][e]
 ##-[s][bup 5 1 65535 0]Yeah... Thanks.[n][w][e]-##
 
@@ -2128,7 +2128,7 @@
 [s][bup 6 1 65535 0]...Верно.[n][w][e]
 ##-[s][bup 6 1 65535 0]...True.[n][w][e]-##
 
-[msg MSG_236 [Джунпэй]]
+[msg MSG_236 [Джунпей]]
 [s][bup 5 2 65535 0]Эй, как дела?[n][w][e]
 ##-[s][bup 5 2 65535 0]Hey, how's it going?[n][w][e]-##
 
@@ -2144,13 +2144,13 @@
 [s]"Не так уж хорошо..."[e]
 ##-[s]"Not so good..."[e]-##
 
-[msg MSG_238 [Джунпэй]]
+[msg MSG_238 [Джунпей]]
 [s][bup 5 2 65535 0]Ха-ха, это здорово! То же самое и здесь![n][w][e]
 ##-[s][bup 5 2 65535 0]Haha, that's great! Same here![n][w][e]-##
 [s]Давай завладеем следующей Тенью и сделаем[n]мир лучше, а?![n][w][e]
 ##-[s]Let's OWN that next Shadow and[n]make the world a better place, huh!?[n][w][e]-##
 
-[msg MSG_239 [Джунпэй]]
+[msg MSG_239 [Джунпей]]
 [s][bup 5 2 65535 0]О, да? Что ж, я чувствую себя великолепно![n][w][e]
 ##-[s][bup 5 2 65535 0]Oh, yeah? Well, I feel great![n][w][e]-##
 [s]Давай завладеем следующей Тенью и сделаем[n]мир лучше, а?![n][w][e]
@@ -2312,7 +2312,7 @@
 [s]Не теряй бдительности, потому что летние[n]каникулы были слишком долгими, хорошо?[n][w][e]
 ##-[s]Don't let your guard down because[n]summer vacation was too long, okay!?[n][w][e]-##
 
-[msg MSG_260 [Джунпэй]]
+[msg MSG_260 [Джунпей]]
 [s][bup 5 1 65535 0]Йоу... Блин, я сегодня такой сонный.[n][w][e]
 ##-[s][bup 5 1 65535 0]Yo...[n]Man, I'm so sleepy today.[n][w][e]-##
 [s][bup 5 2 65535 0]В такие времена, как сейчас, лучше всего[n]спать во время занятий![n][w][e]
@@ -2332,7 +2332,7 @@
 [s]"Не спи в классе".[e]
 ##-[s]"Don't sleep in class."[e]-##
 
-[msg MSG_262 [Джунпэй]]
+[msg MSG_262 [Джунпей]]
 [s][bup 5 2 65535 0]Верно? Вы снова превращаетесь из мертвого в[n]полностью наполненного энергией. Это такое[n]прекрасное чувство.[n][w][e]
 ##-[s][bup 5 2 65535 0]Right? You go from dead to being[n]completely full of energy again. It's[n]such a great feeling.[n][w][e]-##
 [s]...С другой стороны, я не слушаю лекцию,[n]так что я облажаюсь позже![n][w][e]
@@ -2340,7 +2340,7 @@
 [s]О, но сегодня у нас есть классическая[n]литература... Это означает, что мы застряли[n]с мистером Мерзким стариной Экодой...[n][w][e]
 ##-[s]Oh, but we have classic literature[n]today... That means we're stuck with[n]Mr. Nasty ol' Ekoda...[n][w][e]-##
 
-[msg MSG_263 [Джунпэй]]
+[msg MSG_263 [Джунпей]]
 [s][bup 5 5 65535 0]Что? Почему ты должен быть таким серьезным?[n][w][e]
 ##-[s][bup 5 5 65535 0]Whaaat? Why do you have to be all[n]serious?[n][w][e]-##
 [s]Это ощущение полной перезарядки просто[n]потрясающее... Но я облажался позже, так[n]как не слышал лекции![n][w][e]
@@ -2348,7 +2348,7 @@
 [s]О, но сегодня у нас есть классическая[n]литература... Это означает, что мы застряли[n]с мистером Мерзким стариной Экодой...[n][w][e]
 ##-[s]Oh, but we have classic literature[n]today... That means we're stuck with[n]Mr. Nasty ol' Ekoda...[n][w][e]-##
 
-[msg MSG_264 [Джунпэй]]
+[msg MSG_264 [Джунпей]]
 [s][bup 5 2 65535 0]Йоу, давно не виделись. Как дела? У тебя[n]было расстройство желудка или что-то в этом[n]роде?[n][w][e]
 ##-[s][bup 5 2 65535 0]Yo, long time no see. What's up?[n]Did you have an upset stomach or[n]something?[n][w][e]-##
 [s]В любом случае, я должен тебе кое-что[n]сказать.[n][w][e]
@@ -2366,7 +2366,7 @@
 [s]"Ты хорошо себя чувствуешь?"[e]
 ##-[s]"Are you feeling okay?"[e]-##
 
-[msg MSG_266 [Джунпэй]]
+[msg MSG_266 [Джунпей]]
 [s][bup 5 2 65535 0]На самом деле...[n][w][e]
 ##-[s][bup 5 2 65535 0]Actually...[n][w][e]-##
 [s]О, подождите! Я не должен ничего говорить![n][w][e]
@@ -2375,16 +2375,16 @@
 ##-[s]Sorry, man. *chuckle*[n][w][e]-##
 [s][f 1 5]Юкари[n][bup 2 8 65535 3]Блин, кто-то сегодня полон энергии...[n]Я мог слышать тебя с той стороны.[n][w][e]
 ##-[s][f 1 5]Юкари[n][bup 2 8 65535 3]Sheesh, someone's full of energy[n]today... I could hear you from all the[n]way over there.[n][w][e]-##
-[s][f 1 5]Джунпэй[n][bup 5 2 65535 1]Привет, это Юка-тан.[n][w][e]
-##-[s][f 1 5]Джунпэй[n][bup 5 2 65535 1]Hey, it's Yuka-tan.[n][w][e]-##
+[s][f 1 5]Джунпей[n][bup 5 2 65535 1]Привет, это Юка-тан.[n][w][e]
+##-[s][f 1 5]Джунпей[n][bup 5 2 65535 1]Hey, it's Yuka-tan.[n][w][e]-##
 [s]Вы двое живете в одном общежитии, но[n]сегодня пришли порознь? Это... потому что[n]ты снова вызовешь слишком много слухов, хм?[n][w][e]
 ##-[s]You two live in the same dorm, yet[n]came separately today? Is it... because[n]you'll cause too many rumors again, hm?[n][w][e]-##
 [s][f 1 5]Юкари[n][bup 2 8 65535 3]Что? Я просто немного опоздал![n][w][e]
 ##-[s][f 1 5]Юкари[n][bup 2 8 65535 3]What? I just left a little late![n][w][e]-##
-[s]В любом случае, мне нужно с ней поговорить.[n]Пока-пока, Джунпэй.[n][w][e]
-##-[s]Anyways, I need to talk to her.[n]Bye-bye, Джунпэй.[n][w][e]-##
-[s][f 1 5]Джунпэй[n][bup 5 5 65535 1]Чтоааать...[n][w][e]
-##-[s][f 1 5]Джунпэй[n][bup 5 5 65535 1]Whaaaat...[n][w][e]-##
+[s]В любом случае, мне нужно с ней поговорить.[n]Пока-пока, Джунпей.[n][w][e]
+##-[s]Anyways, I need to talk to her.[n]Bye-bye, Джунпей.[n][w][e]-##
+[s][f 1 5]Джунпей[n][bup 5 5 65535 1]Чтоааать...[n][w][e]
+##-[s][f 1 5]Джунпей[n][bup 5 5 65535 1]Whaaaat...[n][w][e]-##
 [s][f 4 7 0 0 0][f 1 5]Юкари[n][bup 2 2 65535 0]Ты чувствуешь себя лучше?[n][w][e]
 ##-[s][f 4 7 0 0 0][f 1 5]Юкари[n][bup 2 2 65535 0]Are you feeling better?[n][w][e]-##
 [s][bup 2 7 65535 0]...[f 4 2].[n][w][e]
@@ -2396,23 +2396,23 @@
 [s]Приходи на 4-й этаж общежития после школы,[n]хорошо? Не забывай.[n][w][e]
 ##-[s]Come to the 4th floor of the dorm[n]after school, okay? Don't forget.[n][w][e]-##
 
-[msg MSG_267 [Джунпэй]]
+[msg MSG_267 [Джунпей]]
 [s][bup 5 3 65535 0]Чувак, я в полном порядке![n][w][e]
 ##-[s][bup 5 3 65535 0]Dude, I am juuuust fine![n][w][e]-##
 [s][bup 5 1 65535 0]Забудь о старом Дзюнпее...![n][w][e]
-##-[s][bup 5 1 65535 0]Forget the ol' Джунпэй...![n][w][e]-##
+##-[s][bup 5 1 65535 0]Forget the ol' Джунпей...![n][w][e]-##
 [s][f 1 5]Юкари[n][bup 2 8 65535 3]Блин, кто-то сегодня полон энергии...[n]Я мог слышать тебя с той стороны.[n][w][e]
 ##-[s][f 1 5]Юкари[n][bup 2 8 65535 3]Sheesh, someone's full of energy[n]today... I could hear you from all the[n]way over there.[n][w][e]-##
-[s][f 1 5]Джунпэй[n][bup 5 2 65535 1]Привет, это Юка-тан.[n][w][e]
-##-[s][f 1 5]Джунпэй[n][bup 5 2 65535 1]Hey, it's Yuka-tan.[n][w][e]-##
+[s][f 1 5]Джунпей[n][bup 5 2 65535 1]Привет, это Юка-тан.[n][w][e]
+##-[s][f 1 5]Джунпей[n][bup 5 2 65535 1]Hey, it's Yuka-tan.[n][w][e]-##
 [s]Вы двое живете в одном общежитии, но[n]сегодня пришли порознь? Это... потому что[n]ты снова вызовешь слишком много слухов, хм?[n][w][e]
 ##-[s]You two live in the same dorm, yet[n]came separately today? Is it... because[n]you'll cause too many rumors again, hm?[n][w][e]-##
 [s][f 1 5]Юкари[n][bup 2 8 65535 3]Что? Я просто немного опоздал![n][w][e]
 ##-[s][f 1 5]Юкари[n][bup 2 8 65535 3]What? I just left a little late![n][w][e]-##
-[s]В любом случае, мне нужно с ней поговорить.[n]Пока-пока, Джунпэй.[n][w][e]
-##-[s]Anyways, I need to talk to her.[n]Bye-bye, Джунпэй.[n][w][e]-##
-[s][f 1 5]Джунпэй[n][bup 5 5 65535 1]Чтоааать...[n][w][e]
-##-[s][f 1 5]Джунпэй[n][bup 5 5 65535 1]Whaaaat...[n][w][e]-##
+[s]В любом случае, мне нужно с ней поговорить.[n]Пока-пока, Джунпей.[n][w][e]
+##-[s]Anyways, I need to talk to her.[n]Bye-bye, Джунпей.[n][w][e]-##
+[s][f 1 5]Джунпей[n][bup 5 5 65535 1]Чтоааать...[n][w][e]
+##-[s][f 1 5]Джунпей[n][bup 5 5 65535 1]Whaaaat...[n][w][e]-##
 [s][f 4 7 0 0 0][f 1 5]Юкари[n][bup 2 2 65535 0]Ты чувствуешь себя лучше?[n][w][e]
 ##-[s][f 4 7 0 0 0][f 1 5]Юкари[n][bup 2 2 65535 0]Are you feeling better?[n][w][e]-##
 [s][bup 2 7 65535 0]...[f 4 2].[n][w][e]
@@ -2454,17 +2454,17 @@
 
 [msg MSG_271 [Акихико]]
 [s][bup 7 2 65535 0]Ух ты, это впечатляет. Ты совершенно не[n]похож на Джунпея.[n][w][e]
-##-[s][bup 7 2 65535 0]Wow, that's impressive. You're[n]completely different from Джунпэй.[n][w][e]-##
+##-[s][bup 7 2 65535 0]Wow, that's impressive. You're[n]completely different from Джунпей.[n][w][e]-##
 [s]С другой стороны, мне так скучно, что я[n]чувствую, что сейчас умру...[n][w][e]
 ##-[s]On the other hand, I'm so bored that[n]I feel like I'm going to die...[n][w][e]-##
 [s][bup 7 9 65535 0]...Эй, есть ли какой-нибудь способ, которым[n]я могу прокрасться на бой?[n][w][e]
 ##-[s][bup 7 9 65535 0]...Hey, is there any way I can sneak[n]in on the fight?[n][w][e]-##
 [s]Может быть, я смогу пройти мимо Мицуру,[n]если надену шляпу Дзюнпэя?[n][w][e]
-##-[s]Maybe I could get past Мицуру if I[n]wear Джунпэй's hat?[n][w][e]-##
+##-[s]Maybe I could get past Мицуру if I[n]wear Джунпей's hat?[n][w][e]-##
 [s][bup 7 8 65535 0]...Нет, неважно. Последствия того не стоили[n]бы...[n][w][e]
 ##-[s][bup 7 8 65535 0]...No, nevermind.[n]The consequences wouldn't be worth[n]it...[n][w][e]-##
 
-[msg MSG_272 [Джунпэй]]
+[msg MSG_272 [Джунпей]]
 [s][bup 5 9 65535 0]Блин, я так устал... Ходить в школу - это[n]работа сама по себе.[n][w][e]
 ##-[s][bup 5 9 65535 0]Man, I'm so tired...[n]Coming to school's a job by itself.[n][w][e]-##
 [s]Внезапно все стало таким оживленным. Что ж,[n]тем не менее, я чувствую себя намного более[n]удовлетворенным.[n][w][e]
@@ -2482,7 +2482,7 @@
 [s]"Но мы только начинаем!"[e]
 ##-[s]"But we're just starting!"[e]-##
 
-[msg MSG_274 [Джунпэй]]
+[msg MSG_274 [Джунпей]]
 [s][bup 5 2 65535 0]Иметь что-то, что можем сделать только[n]мы... Это просто здорово.[n][w][e]
 ##-[s][bup 5 2 65535 0]Having somethin' that only we can do...[n]It just feels great.[n][w][e]-##
 [s][bup 5 9 65535 0]*яааааа* О боже, у меня уже слезятся[n]глаза...[n][w][e]
@@ -2490,7 +2490,7 @@
 [s]Ходить на занятия - это боль...[n]Единственное, чего я с нетерпением жду, -[n]это после школы. Как я буду убивать[n]время...?[n][w][e]
 ##-[s]Goin' to class is a pain... The only[n]thing I look forward to is after[n]school. How will I kill time...?[n][w][e]-##
 
-[msg MSG_275 [Джунпэй]]
+[msg MSG_275 [Джунпей]]
 [s][bup 5 5 65535 0]Ты уверен, что с тобой все будет в порядке?[n]Тебе лучше не заболеть от того, что ты[n]слишком сильно напрягаешься.[n][w][e]
 ##-[s][bup 5 5 65535 0]You sure you're gonna be okay?[n]You better not get sick from pushing[n]yourself too hard.[n][w][e]-##
 [s][bup 5 9 65535 0]*яааааа* О боже, у меня уже слезятся[n]глаза...[n][w][e]
@@ -2585,8 +2585,8 @@
 [msg MSG_284 [Юкари]]
 [s][bup 2 1 65535 0]Доброе утро. Ты, как всегда, пунктуален,[n][f 4 2].[n][w][e]
 ##-[s][bup 2 1 65535 0]Mornin'. You're as punctual as always,[n][f 4 2].[n][w][e]-##
-[s]Джунпэй выглядел так, словно мир вот-вот[n]закончится.[n][w][e]
-##-[s]Джунпэй looked like the world is[n]about to end.[n][w][e]-##
+[s]Джунпей выглядел так, словно мир вот-вот[n]закончится.[n][w][e]
+##-[s]Джунпей looked like the world is[n]about to end.[n][w][e]-##
 
 [sel SEL285 top]
 [s]"действительно?"[e]
@@ -2630,7 +2630,7 @@
 [s]В любом случае, иметь другого[n]пользователя-персонажа не может быть плохо![n][w][e]
 ##-[s]Either way, having another Persona-user[n]can't be a bad thing![n][w][e]-##
 
-[msg MSG_288 [Джунпэй]]
+[msg MSG_288 [Джунпей]]
 [s][bup 5 1 65535 0]Эй, чувак!? Итак, что ты думаешь...?[n][w][e]
 ##-[s][bup 5 1 65535 0]S'up, dude!? So, whaddya think...?[n][w][e]-##
 
@@ -2646,7 +2646,7 @@
 [s]"Что тебя так волнует?"[e]
 ##-[s]"What're you excited about?"[e]-##
 
-[msg MSG_290 [Джунпэй]]
+[msg MSG_290 [Джунпей]]
 [s][bup 5 3 65535 0]О Фууке Ямагиси, конечно. Я не теряю[n]надежды, что она присоединится к нашей[n]команде.[n][w][e]
 ##-[s][bup 5 3 65535 0]About Фука Yamagishi, of course.[n]I haven't given up hope that she'll[n]join our team.[n][w][e]-##
 [s][bup 5 2 65535 0]Чувак, ее лицо кажется таким знакомым.[n][w][e]
@@ -2654,7 +2654,7 @@
 [s]Она действительно выглядит немного слабой,[n]но это только заставляет меня хотеть[n]защитить ее, понимаешь?[n][w][e]
 ##-[s]She does look kinda weak, but it[n]only makes me wanna protect her,[n]ya know?[n][w][e]-##
 
-[msg MSG_291 [Джунпэй]]
+[msg MSG_291 [Джунпей]]
 [s][bup 5 4 65535 0]О да... Конечно, тебя бы не слишком[n]интересовали девушки...[n][w][e]
 ##-[s][bup 5 4 65535 0]Oh yeah... Of course you wouldn't be[n]too interested in girls...[n][w][e]-##
 [s][bup 5 2 65535 0]Я говорю об этой девушке Фууке Ямагиси. Я[n]знаю, что видел ее раньше.[n][w][e]
@@ -2824,7 +2824,7 @@
 [s]Не забывай, сейчас же. Мы встретимся в[n]общежитии после школы.[n][w][e]
 ##-[s]Don't forget, now. We'll meet at[n]the dorm after school.[n][w][e]-##
 
-[msg MSG_312 [Джунпэй]]
+[msg MSG_312 [Джунпей]]
 [s][bup 5 2 65535 0]Чувак, завтра начинаются летние каникулы![n]Пришло время встретиться с некоторыми[n]милашками на пляже![n][w][e]
 ##-[s][bup 5 2 65535 0]Dude, summer break starts tomorrow![n]It's time to meet some cuties at[n]the beach![n][w][e]-##
 
@@ -2840,7 +2840,7 @@
 [s]"На самом деле мне все равно".[e]
 ##-[s]"I don't really care."[e]-##
 
-[msg MSG_315 [Джунпэй]]
+[msg MSG_315 [Джунпей]]
 [s][bup 5 4 65535 0]Да ладно, это касается и тебя тоже,[n]понимаешь?[n][w][e]
 ##-[s][bup 5 4 65535 0]C'mon, this involves you too, ya know?[n][w][e]-##
 [s][bup 5 1 65535 0]Кто знает, что может случиться с вами во[n]время летних каникул![n][w][e]
@@ -2848,7 +2848,7 @@
 [s]Продолжай в том же духе, и ты упустишь все[n]эти возможности познакомиться с кем-нибудь.[n][w][e]
 ##-[s]Keep that attitude up and you're gonna[n]miss all those opportunities to meet[n]someone.[n][w][e]-##
 
-[msg MSG_316 [Джунпэй]]
+[msg MSG_316 [Джунпей]]
 [s][bup 5 5 65535 0]Давай, будь честнее с самим собой![n][w][e]
 ##-[s][bup 5 5 65535 0]C'mon, be more honest with yourself![n][w][e]-##
 [s][bup 5 1 65535 0]Кто знает, что может случиться с вами во[n]время летних каникул![n][w][e]
