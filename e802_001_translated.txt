@@ -5,13 +5,13 @@
 [sel SEL001 top]
 [s]"Да, а что?"[e]
 ##-[s]"Yeah, why?"[e]-##
-[s]"Кто ты такой?"[e]
+[s]"Ты кто?"[e]
 ##-[s]"Who are you?"[e]-##
 
 [sel SEL001_G top]
 [s]"Да, а что?"[e]
 ##-[s]"Yeah, why?"[e]-##
-[s]"Кто ты такой?"[e]
+[s]"Ты кто?"[e]
 ##-[s]"Who are you?"[e]-##
 
 [msg MSG_002 [Дружелюбный ученик]]
@@ -19,7 +19,7 @@
 ##-[s][bup 22 1 65535 0]Man, I knew it.[n][w][e]-##
 [s]Я слышал от Джунпея, что вы с Юкари-сан[n]довольно близки...[n][w][e]
 ##-[s]I heard from Джунпэй that you're[n]pretty close with Юкари-san.[n][w][e]-##
-[s]Он не врёт?[[n][w][e]
+[s]Как так вышло?[[n][w][e]
 ##-[s]...What's up with that?[n][w][e]-##
 [s]Хотя меня это не шибко волнует.[n]Мне интересны особы с чуть большим[n]опытом.[n][w][e]
 ##-[s]Well, I guess it doesn't matter.[n]I'm looking for someone with[n]a little more experience anyway.[n][w][e]-##
@@ -33,7 +33,7 @@
 ##-[s][bup 22 1 65535 0]Man, I knew it.[n][w][e]-##
 [s]Я слышал от Джунпея, что вы с Юкари-сан[n]довольно близки...[n][w][e]
 ##-[s]I heard from Джунпэй that you're[n]pretty close with Юкари-san.[n][w][e]-##
-[s]Он не врёт?[[n][w][e]
+[s]Как так вышло?[[n][w][e]
 ##-[s]...What's up with that?[n][w][e]-##
 [s]Хотя меня это не шибко волнует.[n]Мне интересны особы с чуть большим[n]опытом.[n][w][e]
 ##-[s]Well, I guess it doesn't matter.[n]I'm looking for someone with[n]a little more experience anyway.[n][w][e]-##
@@ -42,7 +42,7 @@
 [s][f 1 5]Кэндзи Томотика[n]Сейчас начнётся утреннее собрание.[n]Нам лучше не опаздывать.[n][w][e]
 ##-[s][f 1 5]Кэндзи Томотика[n]There's a morning assembly,[n]so we better hurry.[n][w][e]-##
 
-[msg MSG_004 [Джунпэй]]
+[msg MSG_004 [Джунпей]]
 [s][bup 5 2 65535 0]Йоу! Давно не виделись. Куда пропал?[n]Живот прихватило или[n]ещё чего?[n][w][e]
 ##-[s][bup 5 2 65535 0]Yo, long time no see. What's up?[n]Did you have an upset stomach or[n]something?[n][w][e]-##
 [s]Как бы то ни было, я должен[n]кое-что тебе сообщить.[n][w][e]
@@ -57,10 +57,10 @@
 [sel SEL005_G top]
 [s]"В чём дело?"[e]
 ##-[s]"What's up?"[e]-##
-[s]"А ты цветёшь и пахнешь."[e]
+[s]"Гляжу, ты цветёшь и пахнешь."[e]
 ##-[s]"You're full of energy."[e]-##
 
-[msg MSG_006 [Джунпэй]]
+[msg MSG_006 [Джунпей]]
 [s][bup 5 2 65535 0]На самом деле...[n][w][e]
 ##-[s][bup 5 2 65535 0]Actually...[n][w][e]-##
 [s]Ой! Стоп. Я не могу ничего рассказать![n][w][e]
@@ -69,8 +69,8 @@
 ##-[s]Sorry, man. *chuckle*[n][w][e]-##
 [s][f 1 5]Юкари[n][bup 2 8 65535 3]Боже, кое-кто явно страдает от переизбытка сил...[n]Тебя слышно с другого конца улицы![n][w][e]
 ##-[s][f 1 5]Юкари[n][bup 2 8 65535 3]Sheesh, someone's full of energy[n]today... I could hear you from all the[n]way over there.[n][w][e]-##
-[s][f 1 5]Джунпэй[n][bup 5 1 65535 1]А?[n]Вы пришли сегодня поодиночке,[n]хотя живёте в одном общежитии?[n][w][e]
-##-[s][f 1 5]Джунпэй[n][bup 5 1 65535 1]Huh? You two came separately today even[n]though you guys are in the same dorm?[n][w][e]-##
+[s][f 1 5]Джунпей[n][bup 5 1 65535 1]А?[n]Вы пришли сегодня поодиночке,[n]хотя живёте в одном общежитии?[n][w][e]
+##-[s][f 1 5]Джунпей[n][bup 5 1 65535 1]Huh? You two came separately today even[n]though you guys are in the same dorm?[n][w][e]-##
 [s][f 1 5]Юкари[n][bup 2 3 65535 3]Слушай, нас всех уже маленько[n]достали твои дурацкие сплетни![n][w][e]
 ##-[s][f 1 5]Юкари[n][bup 2 3 65535 3]Ugh, we're all tired of hearing you[n]talk about that.[n][w][e]-##
 [s][f 4 7 0 0 0][bup 2 1 65535 0]...[f 4 2]-кун, тебе полегчало?[n][w][e]
@@ -82,19 +82,19 @@
 [s]Пожалуйста, после школы подойди в общежитие[n]на 4-й этаж. Только не забудь![n][w][e]
 ##-[s]Come to the 4th floor of the dorm[n]after school, okay? Don't forget.[n][w][e]-##
 
-[msg MSG_007 [Джунпэй]]
+[msg MSG_007 [Джунпей]]
 [s][bup 5 3 65535 0]Чувак, я просто в поря-я-ядке![n][w][e]
 ##-[s][bup 5 3 65535 0]Dude, I am juuuust fine![n][w][e]-##
-[s][bup 5 1 65535 0]Забудь о старом Джунпэе...![n][w][e]
-##-[s][bup 5 1 65535 0]Forget the ol' Джунпэй...![n][w][e]-##
-[s]Теперь вот это НАСТОЯЩИЙ я![n][w][e]
+[s][bup 5 1 65535 0]Забудь о старом Джунпее...![n][w][e]
+##-[s][bup 5 1 65535 0]Forget the ol' Джунпей...![n][w][e]-##
+[s]Теперь вот он, НАСТОЯЩИЙ я![n][w][e]
 ##-[s]This is the REAL me![n][w][e]-##
-[s]Тебе тоже нужно прийти в себя. Давай,[n]будь бодрячком, как твой друг ДЖУНПЭ-Э-ЭЙ![n][w][e]
+[s]Тебе тоже нужно прийти в себя. Давай,[n]будь бодрячком, как твой друг ДЖУНПЕ-Е-ЕЙ![n][w][e]
 ##-[s]You should cheer up, too. After all,[n]you've got ME for a friend.[n][w][e]-##
 [s][f 1 5]Юкари[n][bup 2 8 65535 3]Боже, кое-кто явно страдает от переизбытка сил...[n]Тебя слышно с другого конца улицы![n][w][e]
 ##-[s][f 1 5]Юкари[n][bup 2 8 65535 3]Sheesh, someone's full of energy[n]today... I could hear you from all the[n]way over there.[n][w][e]-##
-[s][f 1 5]Джунпэй[n][bup 5 1 65535 1]А?[n]Вы пришли сегодня поодиночке,[n]хотя живёте в одном общежитии?[n][w][e]
-##-[s][f 1 5]Джунпэй[n][bup 5 1 65535 1]Huh? You two came separately today even[n]though you guys are in the same dorm?[n][w][e]-##
+[s][f 1 5]Джунпей[n][bup 5 1 65535 1]А?[n]Вы пришли сегодня поодиночке,[n]хотя живёте в одном общежитии?[n][w][e]
+##-[s][f 1 5]Джунпей[n][bup 5 1 65535 1]Huh? You two came separately today even[n]though you guys are in the same dorm?[n][w][e]-##
 [s][f 1 5]Юкари[n][bup 2 3 65535 3]Слушай, нас всех уже маленько[n]достали твои дурацкие сплетни![n][w][e]
 ##-[s][f 1 5]Юкари[n][bup 2 3 65535 3]Ugh, we're all tired of hearing you[n]talk about that.[n][w][e]-##
 [s][f 4 7 0 0 0][bup 2 1 65535 0]...[f 4 2]-кун, тебе полегчало?[n][w][e]
