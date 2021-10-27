@@ -1653,31 +1653,31 @@
 ##-[s]And remember, incidents increase[n]when a full moon is near, so remain[n]alert at all times.[n][w][e]-##
 
 [msg MSG_180 [Юкари]]
-[s][bup 2 1 65535 0]Доброе утро. Знаешь, скоро будет[n]полнолуние.[n][w][e]
+[s][bup 2 1 65535 0]Доброе утро. Знаешь,[n] скоро полнолуние.[n][w][e]
 ##-[s][bup 2 1 65535 0]Mornin'. You know, soon it'll be[n]a full moon.[n][w][e]-##
 [s]Ты нервничаешь?[n][w][e]
 ##-[s]Are you nervous?[n][w][e]-##
 
 [sel SEL181 top]
-[s]"да".[e]
+[s]"Ага".[e]
 ##-[s]"Yeah."[e]-##
-[s]"Нет".[e]
+[s]"Не-а".[e]
 ##-[s]"Nah."[e]-##
 
 [sel SEL181_G top]
-[s]"да".[e]
+[s]"Ага".[e]
 ##-[s]"Yeah."[e]-##
-[s]"Нет".[e]
+[s]"Не-а".[e]
 ##-[s]"Nah."[e]-##
 
 [msg MSG_182 [Юкари]]
-[s][bup 2 2 65535 0]Я рад, что я не единственный...[n][w][e]
+[s][bup 2 2 65535 0]Рада слышать, что переживаю не я одна...[n][w][e]
 ##-[s][bup 2 2 65535 0]I'm glad I'm not the only one...[n][w][e]-##
 [s][bup 2 1 65535 0]Но все равно, мы должны сделать это,[n]несмотря ни на что...[n][w][e]
 ##-[s][bup 2 1 65535 0]But still, we have to do this[n]no matter what...[n][w][e]-##
 
 [msg MSG_183 [Юкари]]
-[s][bup 2 1 65535 0]...Серьезно? Как ты можешь быть таким[n]спокойным, [f 4 2]- кун...?[n][w][e]
+[s][bup 2 1 65535 0]...Серьёзно? Как ты можешь быть таким[n]спокойным, [f 4 2]- кун...?[n][w][e]
 ##-[s][bup 2 1 65535 0]...Seriously? How can you be so[n]calm, [f 4 2]-kun...?[n][w][e]-##
 [s]Я думаю, мы должны сделать это, несмотря ни[n]на что...[n][w][e]
 ##-[s]I guess we have to do this[n]no matter what...[n][w][e]-##
