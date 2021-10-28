@@ -1707,7 +1707,7 @@
 [msg MSG_187 [Джунпей]]
 [s][bup 5 9 65535 0]Э-э-э-эй! Завтра полнолуни-и-и-и-е![n][w][e]
 ##-[s][bup 5 9 65535 0]Helloooooo!? It's a full moon!![n][w][e]-##
-[s]И я начинаю ...[n][w][e]
+[s]И я начинаю волноваться...[n][w][e]
 ##-[s]And here I am getting all nervous...[n][w][e]-##
 [s][bup 5 8 65535 0]У меня бабочки в животе... Ну, как бывает[n]перед крупным турниром... Понимаешь?[n][w][e]
 ##-[s][bup 5 8 65535 0]Dude, I've got butterflies in my[n]stomach... like right before a big[n]tournament... Ya know?[n][w][e]-##
