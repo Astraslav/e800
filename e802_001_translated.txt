@@ -1977,7 +1977,7 @@
 ##-[s][bup 2 1 65535 0]Mornin'.[n][w][e]-##
 [s]Похоже, Чидори так[n]и не начнёт говорить, да?[n][w][e]
 ##-[s]It doesn't seem like Chidori is[n]gonna talk, does it?[n][w][e]-##
-[s]Джунпей и правда о ней беспокоиться...[n][w][e]
+[s]Джунпей и правда о ней беспокоится...[n][w][e]
 ##-[s]Джунпей is really worried about her...[n][w][e]-##
 [s]Интересно, что с ним случилось?..[n][w][e]
 ##-[s]I wonder what happened...[n][w][e]-##
