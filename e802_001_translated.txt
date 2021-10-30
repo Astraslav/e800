@@ -57,7 +57,7 @@
 [sel SEL005_G top]
 [s]"В чём дело?"[e]
 ##-[s]"What's up?"[e]-##
-[s]"Гляжу, ты цветёшь и пахнешь."[e]
+[s]"Гляжу, ты цветёшь и пахнешь".[e]
 ##-[s]"You're full of energy."[e]-##
 
 [msg MSG_006 [Джунпей]]
@@ -2013,15 +2013,15 @@
 ##-[s]Don't ask me why...[n][w][e]-##
 
 [sel SEL221 top]
-[s]"Удачи."[e]
+[s]"Удачи".[e]
 ##-[s]"Good luck."[e]-##
-[s]"Береги себя."[e]
+[s]"Береги себя".[e]
 ##-[s]"Take care of yourself."[e]-##
 
 [sel SEL221_G top]
 [s]"Удачи!"[e]
 ##-[s]"Good luck!"[e]-##
-[s]"Береги себя."[e]
+[s]"Береги себя".[e]
 ##-[s]"Take care of yourself."[e]-##
 
 [msg MSG_222 [Джунпей]]
@@ -2041,15 +2041,15 @@
 ##-[s]I wonder why Shinjiro-senpai came back[n]so suddenly...[n][w][e]-##
 
 [sel SEL225 top]
-[s]"Не знаю."[e]
+[s]"Не знаю".[e]
 ##-[s]"Don't know."[e]-##
-[s]"Он очень силён."[e]
+[s]"Он очень силён".[e]
 ##-[s]"He has a lot of power."[e]-##
 
 [sel SEL225_G top]
-[s]"Да, мне это тоже интересно."[e]
+[s]"Да, мне это тоже интересно".[e]
 ##-[s]"I wonder myself."[e]-##
-[s]"Он кажется надёжным парнем."[e]
+[s]"Он кажется надёжным парнем".[e]
 ##-[s]"He seems reliable though."[e]-##
 
 [msg MSG_226 [Юкари]]
@@ -2073,9 +2073,9 @@
 ##-[s]Man, why can't they just come[n]all at once?[n][w][e]-##
 
 [sel SEL229 top]
-[s]"Вижу, к чему ты клонишь."[e]
+[s]"Вижу, к чему ты клонишь".[e]
 ##-[s]"I see your point."[e]-##
-[s]"Тогда бы нам пришлось несладко."[e]
+[s]"Тогда бы нам пришлось несладко".[e]
 ##-[s]"That would be tough."[e]-##
 
 [sel SEL229_G top]
@@ -2109,13 +2109,13 @@
 ##-[s]*sigh* I hope the fighting ends[n]before winter comes...[n][w][e]-##
 
 [sel SEL233 top]
-[s]"Уверен, так и будет."[e]
+[s]"Уверен, так и будет".[e]
 ##-[s]"I'm sure it will."[e]-##
 [s]"Кто бы знал?"[e]
 ##-[s]"Who knows?"[e]-##
 
 [sel SEL233_G top]
-[s]"Уверена, так и будет."[e]
+[s]"Уверена, так и будет".[e]
 ##-[s]"I'm sure it will."[e]-##
 [s]"Вряд ли это можно предсказать..."[e]
 ##-[s]"There's no way of knowing..."[e]-##
@@ -2133,9 +2133,9 @@
 ##-[s][bup 5 2 65535 0]Hey, how's it going?[n][w][e]-##
 
 [sel SEL237 top]
-[s]"Довольно неплохо."[e]
+[s]"Довольно неплохо".[e]
 ##-[s]"Pretty good."[e]-##
-[s]"Не очень хорошо."[e]
+[s]"Не очень хорошо".[e]
 ##-[s]"Not so good."[e]-##
 
 [sel SEL237_G top]
@@ -2167,13 +2167,13 @@
 ##-[s]There's only one Shadow left;[n]it must be apprehensive.[n][w][e]-##
 
 [sel SEL241 top]
-[s]"Да, не стоит волноваться."[e]
+[s]"Да, не стоит волноваться".[e]
 ##-[s]"Yeah, it must be."[e]-##
 [s]"Кто знает?.."[e]
 ##-[s]"Who knows..."[e]-##
 
 [sel SEL241_G top]
-[s]"Да, не нужно себя накручивать."[e]
+[s]"Да, не нужно себя накручивать".[e]
 ##-[s]"That may be so."[e]-##
 [s]"Я не знаю..."[e]
 ##-[s]"I don't know..."[e]-##
