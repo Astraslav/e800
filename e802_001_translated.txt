@@ -2525,7 +2525,7 @@
 ##-[s]So, [clr 2]if I'm not in the lounge, we will[n]explore Tartarus the following day[clr 0].[n][w][e]-##
 
 [msg MSG_279 [Мицуру]]
-[s][bup 4 1 65535 0]Ожидаемо. Твоя способность[n]адаптироваться к новым обстоятельствам[n]весьма впечатляет.[[n][w][e]
+[s][bup 4 1 65535 0]Что ж, я тебя понимаю. В последнее время[n]на тебя столько всего свалилось.[[n][w][e]
 ##-[s][bup 4 1 65535 0]Well, that's understandable. So much[n]seems to be happening these days.[n][w][e]-##
 [s]Кстати, я забыла тебе кое-что сказать...[n][w][e]
 ##-[s]By the way, there's something[n]I forgot to tell you...[n][w][e]-##
