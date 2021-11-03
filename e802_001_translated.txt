@@ -2585,31 +2585,31 @@
 [msg MSG_284 [Юкари]]
 [s][bup 2 1 65535 0]Утро. Ты, как всегда, сама пунктуальность,[n][f 4 2].[n][w][e]
 ##-[s][bup 2 1 65535 0]Mornin'. You're as punctual as always,[n][f 4 2].[n][w][e]-##
-[s]Джунпей выглядел так, словно мир вот-вот[n]закончится.[n][w][e]
+[s]Я видела Джунпея. Кажется, сегодня[n]наступит его личный конец света.[n][w][e]
 ##-[s]Джунпей looked like the world is[n]about to end.[n][w][e]-##
 
 [sel SEL285 top]
-[s]"действительно?"[e]
+[s]"Правда?"[e]
 ##-[s]"Really?"[e]-##
-[s]"что случилось?"[e]
+[s]"Что случилось?"[e]
 ##-[s]"What happened?"[e]-##
 
 [sel SEL285_G top]
-[s]"действительно?"[e]
+[s]"Правда?"[e]
 ##-[s]"Really?"[e]-##
 [s]"Что-то случилось?"[e]
 ##-[s]"Did something happen?"[e]-##
 
 [msg MSG_286 [Юкари]]
-[s][bup 2 1 65535 0]Да, действительно. Результаты экзаменов[n]будут опубликованы сегодня, так что...[n][w][e]
+[s][bup 2 1 65535 0]Ага, именно так. Сегодня[n]опубликуют результаты экзаменов, так что...[n][w][e]
 ##-[s][bup 2 1 65535 0]Yeah, really. Exam scores will be[n]posted today, so...[n][w][e]-##
-[s]Это все объясняет.[n][w][e]
+[s]Это объясняет его состояние.[n][w][e]
 ##-[s]That explains it.[n][w][e]-##
 [s]Он сказал, что будет умолять о более[n]высоком балле...[n][w][e]
 ##-[s]He said he's gonna beg for a higher[n]score...[n][w][e]-##
 [s]...Как будто это сработает. [n][w][e]
 ##-[s]...Like that's gonna work. [n][w][e]-##
-[s]Да, кстати... Ты помнишь, как[n]Акихико-семпай говорил об этой девушке[n]Фууке...?[n][w][e]
+[s]Да, кстати... Ты помнишь, как[n]Акихико-семпай говорил об этой девушке[n]Фуке...?[n][w][e]
 ##-[s]Oh, by the way... You remember[n]how Акихико-senpai was talking[n]about that girl Фука...?[n][w][e]-##
 [s]Я слышал, что она немного слаба... но это[n]всего лишь слухи. Интересно, какая она на[n]самом деле?[n][w][e]
 ##-[s]I hear she's kinda weak... but that's[n]just a rumor. I wonder what she's[n]really like.[n][w][e]-##
@@ -2617,13 +2617,13 @@
 ##-[s]Either way, having another Persona-user[n]can't be a bad thing![n][w][e]-##
 
 [msg MSG_287 [Юкари]]
-[s][bup 2 1 65535 0]Что ж, результаты экзаменов будут[n]опубликованы сегодня, так что...[n][w][e]
+[s][bup 2 1 65535 0]Ну,.. Сегодня[n]опубликуют результаты экзаменов, так что...[n][w][e]
 ##-[s][bup 2 1 65535 0]Well, exam scores will be posted[n]today, so...[n][w][e]-##
 [s]Он сказал, что будет умолять о более[n]высоком балле...[n][w][e]
 ##-[s]He said he's gonna beg for a higher[n]score...[n][w][e]-##
 [s]...Как будто это сработает. [n][w][e]
 ##-[s]...Like that's gonna work. [n][w][e]-##
-[s]Да, кстати... Ты помнишь, как[n]Акихико-семпай говорил об этой девушке[n]Фууке...?[n][w][e]
+[s]Да, кстати... Ты помнишь, как[n]Акихико-семпай говорил об этой девушке[n]Фуке...?[n][w][e]
 ##-[s]Oh, by the way... You remember[n]how Акихико-senpai was talking[n]about that girl Фука...?[n][w][e]-##
 [s]Я слышал, что она немного слаба... но это[n]всего лишь слухи. Интересно, какая она на[n]самом деле?[n][w][e]
 ##-[s]I hear she's kinda weak... but that's[n]just a rumor. I wonder what she's[n]really like.[n][w][e]-##
