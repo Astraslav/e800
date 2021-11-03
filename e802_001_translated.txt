@@ -2499,39 +2499,39 @@
 ##-[s]Goin' to class is a pain... The only[n]thing I look forward to is after[n]school. How will I kill time...?[n][w][e]-##
 
 [msg MSG_276 [Мицуру]]
-[s][bup 4 1 65535 0]Доброе утро. ...Вы уже акклиматизировались[n]в нашей школе?[w][e]
+[s][bup 4 1 65535 0]Доброе утро... Удалось акклиматизироваться[n]в нашей школе?[w][e]
 ##-[s][bup 4 1 65535 0]Good morning. ...Have you acclimated[n]to our school yet?[w][e]-##
 
 [sel SEL277 top]
-[s]"да."[e]
+[s]"Да."[e]
 ##-[s]"Yes."[e]-##
-[s]"Еще нет..."[e]
+[s]"Ещё нет..."[e]
 ##-[s]"Not yet..."[e]-##
 
 [sel SEL277_G top]
-[s]"да."[e]
+[s]"Да."[e]
 ##-[s]"Yes."[e]-##
-[s]"Еще нет..."[e]
+[s]"Ещё нет..."[e]
 ##-[s]"Not yet..."[e]-##
 
 [msg MSG_278 [Мицуру]]
-[s][bup 4 1 65535 0]Я понимаю. Ваша способность адаптироваться[n]к новым ситуациям и условиям очень[n]впечатляет.[n][w][e]
+[s][bup 4 1 65535 0]Ожидаемо. Твоя способность адаптироваться[n]к новым жизненным ситуациям и условиям[n]существования весьма впечатляет.[n][w][e]
 ##-[s][bup 4 1 65535 0]I see. Your ability to adapt to[n]new situations and environments is[n]very impressive.[n][w][e]-##
-[s]Кстати, я кое-что забыл тебе сказать...[n][w][e]
+[s]Кстати, я забыла тебе кое-что сказать...[n][w][e]
 ##-[s]By the way, there's something[n]I forgot to tell you...[n][w][e]-##
-[s]В большинстве случаев вы можете найти меня[n]в гостиной. Однако меня там не будет, если[n]мне нужно будет чем-то заняться.[n][w][e]
+[s]Обычно вечера я просиживаю в[n]гостиной общежития. Но иногда мне нужно[n]будет заниматься и другими делами.[n][w][e]
 ##-[s]Most times you can find me in the[n]lounge. However, I won't be there if[n]there is something I must attend to.[n][w][e]-##
-[s]Так, [clr 2]если меня не будет в гостиной, мы[n]исследуем Тартар на следующий день[clr 0].[n][w][e]
+[s]Так что, [clr 2]если меня не будет в гостиной,[n]мы сможем пойти в Тартар на следующий день[clr 0].[n][w][e]
 ##-[s]So, [clr 2]if I'm not in the lounge, we will[n]explore Tartarus the following day[clr 0].[n][w][e]-##
 
 [msg MSG_279 [Мицуру]]
-[s][bup 4 1 65535 0]Что ж, это понятно. Кажется, так много[n]всего происходит в эти дни.[n][w][e]
+[s][bup 4 1 65535 0]Что ж, я тебя понимаю. В последнее время[n]на тебя столько всего свалилось.[n][w][e]
 ##-[s][bup 4 1 65535 0]Well, that's understandable. So much[n]seems to be happening these days.[n][w][e]-##
-[s]Кстати, я кое-что забыл тебе сказать...[n][w][e]
+[s]Кстати, я забыла тебе кое-что сказать...[n][w][e]
 ##-[s]By the way, there's something[n]I forgot to tell you...[n][w][e]-##
-[s]В большинстве случаев вы можете найти меня[n]в гостиной. Однако меня там не будет, если[n]мне нужно будет чем-то заняться.[n][w][e]
+[s]Обычно вечера я просиживаю в[n]гостиной общежития. Но иногда мне нужно[n]будет заниматься и другими делами.[n][w][e]
 ##-[s]Most times you can find me in the[n]lounge. However, I won't be there if[n]there is something I must attend to.[n][w][e]-##
-[s]Так, [clr 2]если меня не будет в гостиной, мы[n]исследуем Тартар на следующий день[clr 0].[n][w][e]
+[s]Так что, [clr 2]если меня не будет в гостиной,[n]мы сможем пойти в Тартар на следующий день[clr 0].[n][w][e]
 ##-[s]So, [clr 2]if I'm not in the lounge, we will[n]explore Tartarus the following day[clr 0].[n][w][e]-##
 
 [msg MSG_280 [Юкари]]
