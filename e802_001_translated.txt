@@ -1077,7 +1077,7 @@
 [msg MSG_107 [Юкари]]
 [s][bup 2 4 65535 0]Да, наверное...[n][w][e]
 ##-[s][bup 2 4 65535 0]I guess so...[n][w][e]-##
-[s]Уверена,семпай чувствует себя немного[n]подавленной. Но я её, конечно, не виню.[n][w][e]
+[s]Уверена, семпай чувствует себя немного[n]подавленной. Но я её, конечно, не виню.[n][w][e]
 ##-[s]I'm sure she's feeling kinda down.[n]I don't blame her, of course.[n][w][e]-##
 
 [msg MSG_108 [Джунпей]]
@@ -1225,71 +1225,71 @@
 ##-[s]We should talk with everyone tonight.[n][w][e]-##
 
 [msg MSG_128 [Айгис]]
-[s][bup 3 1 65535 0]Я понимаю. Должно быть, это Тартар днем.[n][w][e]
+[s][bup 3 1 65535 0]Понимаю. Так выглядит Тартар[n]в дневное время суток.[n][w][e]
 ##-[s][bup 3 1 65535 0]I see. This must be Tartarus[n]during the daytime.[n][w][e]-##
 
 [sel SEL129 top]
-[s]"Это верно".[e]
+[s]"Верно".[e]
 ##-[s]"That's right."[e]-##
 [s]"Это школа".[e]
 ##-[s]"It's a school."[e]-##
 
 [sel SEL129_G top]
-[s]"Это верно".[e]
+[s]"Верно".[e]
 ##-[s]"That's right."[e]-##
 [s]"Это школа".[e]
 ##-[s]"It's a school."[e]-##
 
 [msg MSG_130 [Айгис]]
-[s][bup 3 1 65535 0]В настоящее время я не обнаруживаю[n]поблизости никаких Теней. Однако мы должны[n]всегда сохранять осторожность.[n][w][e]
+[s][bup 3 1 65535 0]В настоящее время мне не удалось обнаружить[n]поблизости следы Теневой активности. Однако[n]мы всегда должны сохранять осторожность.[n][w][e]
 ##-[s][bup 3 1 65535 0]Currently, I detect no Shadows in[n]the vicinity. However, we must[n]remain cautious at all times.[n][w][e]-##
 
 [msg MSG_131 [Айгис]]
-[s][bup 3 1 65535 0]Я понимаю. Я запишу это в свой банк памяти.[n][w][e]
+[s][bup 3 1 65535 0]Понимаю. Я запишу эту информацию[n]в свой банк памяти.[n][w][e]
 ##-[s][bup 3 1 65535 0]I see. I shall record that in my[n]memory bank.[n][w][e]-##
 
 [msg MSG_132 [Фука]]
-[s][bup 6 1 65535 0]Сегодня ночью полнолуние...[n][w][e]
+[s][bup 6 1 65535 0]Сегодня полнолуние...[n][w][e]
 ##-[s][bup 6 1 65535 0]There's a full moon tonight...[n][w][e]-##
-[s]Интересно, какая Тень появится...[n][w][e]
+[s]Интересно, какая Тень[n]появится этой ночью...[n][w][e]
 ##-[s]I wonder what kind of Shadow[n]will appear...[n][w][e]-##
 
 [sel SEL133 top]
 [s]"Я нервничаю".[e]
 ##-[s]"I'm nervous."[e]-##
-[s]"Предоставь это мне".[e]
+[s]"Предоставь её мне".[e]
 ##-[s]"Leave it to me."[e]-##
 
 [sel SEL133_G top]
 [s]"Я нервничаю".[e]
 ##-[s]"I'm nervous."[e]-##
-[s]"Предоставь это мне!"[e]
+[s]"Предоставь её мне!"[e]
 ##-[s]"Leave it to me!"[e]-##
 
-[msg MSG_134 [Фуука]]
-[s][bup 6 1 65535 0]Я знаю, что ты чувствуешь. Мои способности[n]тоже имеют свои пределы.[n][w][e]
+[msg MSG_134 [Фука]]
+[s][bup 6 1 65535 0]Я знаю, что ты чувствуешь.[n]Но мои способности тоже имеют свои пределы.[n][w][e]
 ##-[s][bup 6 1 65535 0]I know how you feel. My abilities[n]have their limits as well.[n][w][e]-##
-[s]Но я хочу быть в состоянии помочь больше...[n][w][e]
+[s]И всё же, я хочу помочь команде[n]ещё больше, но не могу...[n][w][e]
 ##-[s]But, I want to be able to help[n]more...[n][w][e]-##
 
-[msg MSG_135 [Фуука]]
-[s][bup 6 1 65535 0]Тогда я буду рассчитывать на тебя.[n][w][e]
+[msg MSG_135 [Фука]]
+[s][bup 6 1 65535 0]Тогда положусь на тебя.[n][w][e]
 ##-[s][bup 6 1 65535 0]I'll be counting on you, then.[n][w][e]-##
-[s]Я могу только оказать поддержку, поэтому[n]иногда чувствую себя немного виноватым...[n][w][e]
+[s]Иногда я чувствую вину за то, что не могу[n]сражаться плечом к плечу вместе с вами...[n][w][e]
 ##-[s]I can only provide support,[n]so sometimes I feel a little[n]guilty...[n][w][e]-##
 
 [msg MSG_136 [Айгис]]
-[s][bup 3 1 65535 0]Потерянных, похоже, становится все больше.[n][w][e]
+[s][bup 3 1 65535 0]Потерянных, похоже, становится всё больше.[n][w][e]
 ##-[s][bup 3 1 65535 0]The Lost seem to be growing in number.[n][w][e]-##
 
 [sel SEL137 top]
-[s]"Я не заметил".[e]
+[s]"Разве?".[e]
 ##-[s]"I didn't notice."[e]-##
 [s]"Как так вышло?"[e]
 ##-[s]"How come?"[e]-##
 
 [sel SEL137_G top]
-[s]"действительно?"[e]
+[s]"Действительно?"[e]
 ##-[s]"Really?"[e]-##
 [s]"Интересно, почему".[e]
 ##-[s]"I wonder why."[e]-##
@@ -1507,7 +1507,7 @@
 ##-[s]I'm worried something may happen...[n]So, please keep that in mind.[n][w][e]-##
 
 [msg MSG_163 [Мицуру]]
-[s][bup 4 1 65535 0]Если Ямагиши здесь, ты можешь отправиться в[n]Тартар.[n][w][e]
+[s][bup 4 1 65535 0]Если Ямагиси здесь, ты можешь отправиться в[n]Тартар.[n][w][e]
 ##-[s][bup 4 1 65535 0]If Yamagishi's present,[n]you can go to Tartarus.[n][w][e]-##
 [s]Но, [clr 2]если ни Акихико, ни меня здесь нет, я[n]сказал ей не отпускать тебя[clr 0].[n][w][e]
 ##-[s]But, [clr 2]if neither Акихико nor myself is[n]present, I told her not to let you go[clr 0].[n][w][e]-##
@@ -1653,7 +1653,7 @@
 ##-[s]And remember, incidents increase[n]when a full moon is near, so remain[n]alert at all times.[n][w][e]-##
 
 [msg MSG_180 [Юкари]]
-[s][bup 2 1 65535 0]Доброе утро. Знаешь,[n]скоро полнолуние.[n][w][e]
+[s][bup 2 1 65535 0]Утро. Знаешь,[n]скоро полнолуние.[n][w][e]
 ##-[s][bup 2 1 65535 0]Mornin'. You know, soon it'll be[n]a full moon.[n][w][e]-##
 [s]Ты нервничаешь?[n][w][e]
 ##-[s]Are you nervous?[n][w][e]-##
