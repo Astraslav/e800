@@ -471,7 +471,7 @@
 [msg MSG_043 [Джунпей]]
 [s][bup 5 5 65535 0]Что-о-о? Чел, нельзя же[n]быть серьёзным всю дорогу?[n][w][e]
 ##-[s][bup 5 5 65535 0]Whaaat? Why do you have to be all[n]serious?[n][w][e]-##
-[s]Прилив сил, который ты ощутишь после[n]пробуждения так сладок... Но потом тебе ещё[n]аукнется, ведь учителя ты точно прослушаешь.[n][w][e]
+[s]Прилив сил, который ты ощутишь после[n]пробуждения так сладок! Но учителя ты точно[n]прослушаешь, и это тебе потом ещё аукнется.[n][w][e]
 ##-[s]That feeling of being completely[n]recharged is awesome... But I'm screwed[n]later since I didn't hear the lecture![n][w][e]-##
 [s]Ох, у нас по расписанию классическая[n]литература... Значит, ближайший урок нужно[n]проторчать вместе с Мерзкизом дед Экодой...[n][w][e]
 ##-[s]Oh, but we have classic literature[n]today... That means we're stuck with[n]Mr. Nasty ol' Ekoda...[n][w][e]-##
@@ -2343,7 +2343,7 @@
 [msg MSG_263 [Джунпей]]
 [s][bup 5 5 65535 0]Что-о-о? Чика, нельзя же[n]быть серьёзной всю дорогу?[n][w][e]
 ##-[s][bup 5 5 65535 0]Whaaat? Why do you have to be all[n]serious?[n][w][e]-##
-[s]Прилив сил, который ты ощутишь после[n]пробуждения так сладок... Но потом тебе ещё[n]аукнется, ведь учителя ты точно прослушаешь.[n][w][e]
+[s]Прилив сил, который ты ощутишь после[n]пробуждения так сладок! Но учителя ты точно[n]прослушаешь, и это тебе потом ещё аукнется.[[n][w][e]
 ##-[s]That feeling of being completely[n]recharged is awesome... But I'm screwed[n]later since I didn't hear the lecture![n][w][e]-##
 [s]Ох, у нас по расписанию классическая[n]литература... Значит, ближайший урок нужно[n]проторчать вместе с Мерзкизом дед Экодой...[n][w][e]
 ##-[s]Oh, but we have classic literature[n]today... That means we're stuck with[n]Mr. Nasty ol' Ekoda...[n][w][e]-##
