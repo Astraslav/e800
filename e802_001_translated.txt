@@ -751,7 +751,7 @@
 ##-[s][bup 5 1 65535 0]Seriously? Shouldn't we just leave that[n]to Yuka-tan?[n][w][e]-##
 [s]У меня, например, есть дела и поважнее...[n][w][e]
 ##-[s]I've got better things to do...[n][w][e]-##
-[s]Да и у меня ещё целая куча[n]жутких баек для вас заготовлена.[n][w][e]
+[s]Да и у меня ещё целая куча[n]жутких баек для вас припрятана.[n][w][e]
 ##-[s]Besides, I have plenty of scary stories[n]up my sleeve.[n][w][e]-##
 [s]Кстати, спорю, я тебя вчера сильно напугал[n]этой детской страшилкой. Хотя много кто[n]действительно верит, что она правдива.[n][w][e]
 ##-[s]I bet you were seriously creeped out[n]when you heard that story the other[n]night. They say it's true, though.[n][w][e]-##
@@ -761,7 +761,7 @@
 ##-[s][bup 5 1 65535 0]I know you're lying, man.[n][w][e]-##
 [s]Я тебе честно готов сказать,[n]что у меня есть дела и поважнее... Просто[n]скинь всё на Юку-тан, она ведь не против.[n][w][e]
 ##-[s]As for me, I've got better things[n]to do... I say just leave it to[n]Yuka-tan.[n][w][e]-##
-[s]Да и у меня ещё целая куча[n]жутких баек для вас заготовлена.[n][w][e]
+[s]Да и у меня ещё целая куча[n]жутких баек для вас припрятана.[n][w][e]
 ##-[s]Besides, I have plenty of scary stories[n]up my sleeve.[n][w][e]-##
 [s]Кстати, спорю, я тебя вчера сильно напугал[n]этой детской страшилкой. Хотя много кто[n]действительно верит, что она правдива.[n][w][e]
 ##-[s]I bet you were seriously creeped out[n]when you heard that story the other[n]night. They say it's true, though.[n][w][e]-##
@@ -797,7 +797,7 @@
 ##-[s]I'm gonna look into it more today.[n][w][e]-##
 
 [msg MSG_075 [Юкари]]
-[s][bup 2 1 65535 0]Не волнуйся. Я в порядке.[n][w][e]
+[s][bup 2 1 65535 0]Не волнуйся. Я в норме.[n][w][e]
 ##-[s][bup 2 1 65535 0]Don't worry. I'm fine.[n][w][e]-##
 [s]Но вокруг ходит так много глупых слухов,[n]что из них трудно составить целую картину.[n][w][e]
 ##-[s]But, there's so many stupid rumors[n]going around that it's tough to put[n]them all together.[n][w][e]-##
@@ -839,31 +839,31 @@
 [msg MSG_080 [Юкари]]
 [s][bup 2 1 65535 0]Эй, я тут подумала...[n][w][e]
 ##-[s][bup 2 1 65535 0]Hey, I was thinking...[n][w][e]-##
-[s]Как ты думаешь, Мицуру-семпай спас Фуку,[n]потому что это было правильно?[n][w][e]
+[s]Как ты думаешь, Мицуру-семпай спасла Фуку[n]просто из благих побуждений?[n][w][e]
 ##-[s]Do you think Мицуру-senpai saved[n]Фука because it was the right thing[n]to do?[n][w][e]-##
-[s]Или это было просто потому, что она[n]пользователь Персон, и она нам нужна...?[n][w][e]
+[s]Или только потому, что Фука умеет[n]призывать Персон и нужна нашей команде?..[n][w][e]
 ##-[s]Or was it just because she's a[n]Persona-user and we need her...?[n][w][e]-##
 
 [sel SEL081 top]
-[s]"По правильным причинам".[e]
+[s]"Из благих побуждений".[e]
 ##-[s]"For the right reasons."[e]-##
 [s]"......"[e]
 ##-[s]"......"[e]-##
 
 [sel SEL081_G top]
-[s]"По правильным причинам".[e]
+[s]"Из благих побуждений".[e]
 ##-[s]"For the right reasons."[e]-##
 [s]"......"[e]
 ##-[s]"......"[e]-##
 
 [msg MSG_082 [Юкари]]
-[s][bup 2 1 65535 0]Я... я думаю, да.[n][w][e]
+[s][bup 2 1 65535 0]Н-наверное,.. это так, да.[n][w][e]
 ##-[s][bup 2 1 65535 0]I-I guess so.[n][w][e]-##
 [s]......[n][w][e]
 ##-[s]......[n][w][e]-##
-[s]Что ж, присоединится она к нам или нет,[n]зависит от нее...[n][w][e]
+[s]Что ж, присоединится Фука к нам или нет,[n]решит только она сама...[n][w][e]
 ##-[s]Well, whether or not she joins us[n]is up to her...[n][w][e]-##
-[s]Извините, что поднимаю этот вопрос ни с[n]того ни с сего.[n][w][e]
+[s]Прости, что огорошила тебя этим вопросом[n]вот так ни с того ни с сего...[n][w][e]
 ##-[s]Sorry to bring this up out of the blue.[n][w][e]-##
 
 [msg MSG_083 [Юкари]]
@@ -871,15 +871,15 @@
 ##-[s][bup 2 1 65535 0]So, you think so too?[n][w][e]-##
 [s]......[n][w][e]
 ##-[s]......[n][w][e]-##
-[s]Что ж, присоединится она к нам или нет,[n]зависит от нее...[n][w][e]
+[s]Что ж, присоединится Фука к нам или нет,[n]решит только она сама..[n][w][e]
 ##-[s]Well, whether or not she joins us[n]is up to her...[n][w][e]-##
-[s]Извините, что поднимаю этот вопрос ни с[n]того ни с сего.[n][w][e]
+[s]Прости, что огорошила тебя этим вопросом[n]вот так ни с того ни с сего...[n][w][e]
 ##-[s]Sorry to bring this up out of the blue.[n][w][e]-##
 
 [msg MSG_084 [Мицуру]]
-[s][bup 4 1 65535 0]Доброе утро.[n][w][e]
+[s][bup 4 1 65535 0]Доброе утро...[n][w][e]
 ##-[s][bup 4 1 65535 0]Good morning.[n][w][e]-##
-[s]...Возможно, вам будет интересно узнать,[n]что Ямагиси и Морияма хорошо поправляются.[n][w][e]
+[s]Возможно, тебе будет интересно узнать,[n]что Ямагиси и Морияма быстро идут на поправку.[n][w][e]
 ##-[s]...You might like to know that Yamagishi[n]and Moriyama are healing up well.[n][w][e]-##
 
 [sel SEL085 top]
@@ -899,19 +899,19 @@
 ##-[s][bup 4 1 65535 0]Yes.[n][w][e]-##
 [s]Нам нужно будет пригласить Ямагиси в[n]общежитие и объяснить, что произошло.[n][w][e]
 ##-[s]We'll need to invite Yamagishi to[n]the dorm and explain what happened.[n][w][e]-##
-[s]Мы определенно могли бы воспользоваться ее[n]помощью.[n][w][e]
+[s]Нам определённо не помешало бы[n]воспользоваться её помощью.[n][w][e]
 ##-[s]We could definitely use her help.[n][w][e]-##
 
 [msg MSG_087 [Мицуру]]
 [s][bup 4 1 65535 0]Нам нужно будет пригласить Ямагиси в[n]общежитие и объяснить, что произошло.[n][w][e]
 ##-[s][bup 4 1 65535 0]We'll need to invite Yamagishi to[n]the dorm and explain what happened.[n][w][e]-##
-[s]Мы определенно могли бы воспользоваться ее[n]помощью.[n][w][e]
+[s]Нам определённо не помешало бы[n]воспользоваться её помощью.[n][w][e]
 ##-[s]We could definitely use her help.[n][w][e]-##
 
 [msg MSG_088 [Юкари]]
-[s][bup 2 1 65535 0]Доброе утро.[n][w][e]
+[s][bup 2 1 65535 0]Утро.[n][w][e]
 ##-[s][bup 2 1 65535 0]Mornin'.[n][w][e]-##
-[s]Эй, [f 4 2]- кун... Что ты думаешь о Фууке?[n][w][e]
+[s]Эй, [f 4 2]-кун... Что ты думаешь о Фуке?[n][w][e]
 ##-[s]Hey, [f 4 2]-kun...[n]What do you think about Фука?[n][w][e]-##
 
 [sel SEL089 top]
@@ -2375,7 +2375,7 @@
 ##-[s]Sorry, man. *chuckle*[n][w][e]-##
 [s][f 1 5]Юкари[n][bup 2 8 65535 3]Боже, кое-кто явно страдает от переизбытка[n]сил. Тебя слышно с другого конца улицы![n][w][e]
 ##-[s][f 1 5]Юкари[n][bup 2 8 65535 3]Sheesh, someone's full of energy[n]today... I could hear you from all the[n]way over there.[n][w][e]-##
-[s][f 1 5]Джунпей[n][bup 5 2 65535 1]Эй, да это же Юка-тян![n][w][e]
+[s][f 1 5]Джунпей[n][bup 5 2 65535 1]Эй, да это же Юка-тан![n][w][e]
 ##-[s][f 1 5]Джунпей[n][bup 5 2 65535 1]Hey, it's Yuka-tan.[n][w][e]-##
 [s]Вы пришли сегодня поодиночке,хотя живёте в[n]одном общежитии? Неужели... ты хочешь,[n]чтоб о тебе стали сплетничать ещё больше?[n][w][e]
 ##-[s]You two live in the same dorm, yet[n]came separately today? Is it... because[n]you'll cause too many rumors again, hm?[n][w][e]-##
@@ -2403,7 +2403,7 @@
 ##-[s][bup 5 1 65535 0]Forget the ol' Джунпей...![n][w][e]-##
 [s][f 1 5]Юкари[n][bup 2 8 65535 3]Боже, кое-кто явно страдает от переизбытка[n]сил. Тебя слышно с другого конца улицы![[n][w][e]
 ##-[s][f 1 5]Юкари[n][bup 2 8 65535 3]Sheesh, someone's full of energy[n]today... I could hear you from all the[n]way over there.[n][w][e]-##
-[s][f 1 5]Джунпей[n][bup 5 2 65535 1]Эй, да это же Юка-тян![n][w][e]
+[s][f 1 5]Джунпей[n][bup 5 2 65535 1]Эй, да это же Юка-тан![n][w][e]
 ##-[s][f 1 5]Джунпей[n][bup 5 2 65535 1]Hey, it's Yuka-tan.[n][w][e]-##
 [s]Вы пришли сегодня поодиночке,хотя живёте в[n]одном общежитии? Неужели... ты хочешь,[n]чтоб о тебе стали сплетничать ещё больше?[n][w][e]
 ##-[s]You two live in the same dorm, yet[n]came separately today? Is it... because[n]you'll cause too many rumors again, hm?[n][w][e]-##
@@ -2703,7 +2703,7 @@
 ##-[s]I hope she'll be okay...[n][w][e]-##
 
 [msg MSG_296 [Фука]]
-[s][bup 6 4 65535 0]Ох, [f 4 2]-тян...[n][w][e]
+[s][bup 6 4 65535 0]Ох, [f 4 2]-чан...[n][w][e]
 ##-[s][bup 6 4 65535 0]Oh, [f 4 2]-chan...[n][w][e]-##
 [s]Хм... Ты уже решила, как поступить?..[n][w][e]
 ##-[s]Um... Have you decided what you're[n]going to do...?[n][w][e]-##
@@ -2727,7 +2727,7 @@
 ##-[s]Even Ken-kun is down...[n]What are we going to do...?[n][w][e]-##
 
 [msg MSG_299 [Фука]]
-[s][bup 6 1 65535 0]Ты храбрая, [f 4 2]-тян. А я боюсь...[n][w][e]
+[s][bup 6 1 65535 0]Ты храбрая, [f 4 2]-чан. А я боюсь...[n][w][e]
 ##-[s][bup 6 1 65535 0]You're so brave, [f 4 2]-chan.[n]But, I'm scared...[n][w][e]-##
 [s]Даже Кен-кун упал духом...[n]Что же нам делать?..[n][w][e]
 ##-[s]Even Ken-kun is down...[n]What are we going to do...?[n][w][e]-##
@@ -2791,7 +2791,7 @@
 ##-[s]I guess we have to do this[n]no matter what...[n][w][e]-##
 
 [msg MSG_308 [Фука]]
-[s][bup 6 1 65535 0]Доброе утро, [f 4 2]-тян.[n]Как ты сегодня себя чувствуешь?[n][w][e]
+[s][bup 6 1 65535 0]Доброе утро, [f 4 2]-чан.[n]Как ты сегодня себя чувствуешь?[n][w][e]
 ##-[s][bup 6 1 65535 0]Good morning, [f 4 2]-chan.[n]How are you feeling today?[n][w][e]-##
 
 [sel SEL309 top]
@@ -2807,7 +2807,7 @@
 ##-[s]"Hmm, not so great..."[e]-##
 
 [msg MSG_310 [Фука]]
-[s][bup 6 2 65535 0]Узнаю нашу [f 4 2]-тян![n][w][e]
+[s][bup 6 2 65535 0]Узнаю нашу [f 4 2]-чан![n][w][e]
 ##-[s][bup 6 2 65535 0]Now that's our [f 4 2]-chan![n][w][e]-##
 [s][bup 6 1 65535 0]Сегодня вечером у нас будет небольшое[n]совещание по поводу операции.[n][w][e]
 ##-[s][bup 6 1 65535 0]We're going to have a quick meeting[n]tonight about the operation.[n][w][e]-##
