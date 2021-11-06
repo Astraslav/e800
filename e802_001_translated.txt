@@ -1583,7 +1583,7 @@
 [sel SEL173 top]
 [s]"Да, я знаю".[e]
 ##-[s]"Yeah, I know."[e]-##
-[s]"Да? Я пока об этом не думал".[e]
+[s]"Я пока об этом не задумываюсь".[e]
 ##-[s]"I didn't realize that."[e]-##
 
 [sel SEL173_G top]
@@ -1601,7 +1601,7 @@
 ##-[s]I guess we'll keep fighting until[n]we defeat all eight that are left.[n][w][e]-##
 [s]Но что нам делать потом?[n][w][e]
 ##-[s]But, what are we gonna do after that?[n][w][e]-##
-[s]Я долго об этом размышляю... И мне стало[n]интересно, а не скрывает ли Мицуру-семпай[n]от нас чего-то важного?..[n][w][e]
+[s]Я долго об этом размышляла... И мне стало[n]интересно, а не скрывает ли Мицуру-семпай[n]от нас чего-то важного?..[n][w][e]
 ##-[s]I've been thinking about this for[n]a while. I wonder if Мицуру-senpai[n]is hiding something from us...[n][w][e]-##
 
 [msg MSG_175 [Юкари]]
@@ -1613,7 +1613,7 @@
 ##-[s]I guess we'll keep fighting until[n]we defeat all eight that are left.[n][w][e]-##
 [s]Но что нам делать потом?[n][w][e]
 ##-[s]But, what are we gonna do after that?[n][w][e]-##
-[s]Я долго об этом размышляю... И мне стало[n]интересно, а не скрывает ли Мицуру-семпай[n]от нас чего-то важного?..[n][w][e]
+[s]Я долго об этом размышляла... И мне стало[n]интересно, а не скрывает ли Мицуру-семпай[n]от нас чего-то важного?..[n][w][e]
 ##-[s]I've been thinking about this for[n]a while. I wonder if Мицуру-senpai[n]is hiding something from us...[n][w][e]-##
 
 [msg MSG_176 [Мицуру]]
