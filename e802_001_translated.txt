@@ -1447,21 +1447,21 @@
 ##-[s]I already talked to Мицуру, and she was[n]okay with it too. Good luck.[n][w][e]-##
 
 [msg MSG_156 [Мицуру]]
-[s][bup 4 1 65535 0]Доброе утро.[n][w][e]
+[s][bup 4 1 65535 0]Доброе утро...[n][w][e]
 ##-[s][bup 4 1 65535 0]Good morning.[n][w][e]-##
-[s]...Кажется, в воздухе витает ощущение[n]беспокойства.[n][w][e]
+[s]Кажется, в воздухе витает ощущение[n]беспокойства.[n][w][e]
 ##-[s]...There seems to be a sense of[n]restlessness in the air.[n][w][e]-##
 
 [sel SEL157 top]
-[s]"действительно? Я не заметил."[e]
+[s]"Правда? Что-то незаметно."[e]
 ##-[s]"Really? I didn't notice."[e]-##
-[s]"Да, я согласен..."[e]
+[s]"Да, похоже на то..."[e]
 ##-[s]"Yeah, I agree..."[e]-##
 
 [sel SEL157_G top]
-[s]"действительно? Я не заметил."[e]
+[s]"Правда? Что-то незаметно."[e]
 ##-[s]"Really? I didn't notice."[e]-##
-[s]"Да, я согласен".[e]
+[s]"Да, похоже на то.".[e]
 ##-[s]"Yes, I agree."[e]-##
 
 [msg MSG_158 [Мицуру]]
@@ -1481,7 +1481,7 @@
 ##-[s]So remain alert at all times.[n][w][e]-##
 
 [msg MSG_160 [Мицуру]]
-[s][bup 4 1 65535 0]О, [f 4 1]- Мне нужно тебе кое-что сказать...[n][w][e]
+[s][bup 4 1 65535 0]Ох, [f 4 1].[n]Мне нужно тебе кое-что сказать...[n][w][e]
 ##-[s][bup 4 1 65535 0]Oh, [f 4 1], I have something[n]to tell you...[n][w][e]-##
 [s]С этого момента ты сможешь отправиться в[n]Тартар без меня.[n][w][e]
 ##-[s]From now on, you'll be able to[n]go to Tartarus without me.[n][w][e]-##
