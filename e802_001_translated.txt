@@ -1735,7 +1735,7 @@
 ##-[s][bup 6 2 65535 0]Wow, you're amazing![n][w][e]-##
 [s][bup 6 1 65535 0]Сегодня вечером у нас будет небольшое[n]совещание по поводу операции.[n][w][e]
 ##-[s][bup 6 1 65535 0]We're going to have a quick meeting[n]tonight about the operation.[n][w][e]-##
-[s]Поэтому, пожалуйста, возвращайтесь в[n]общежитие сразу после школы.[n][w][e]
+[s]Поэтому, пожалуйста, возвращайся в[n]общежитие сразу после уроков.[n][w][e]
 ##-[s]So, please return to the dorm immediately[n]after school.[n][w][e]-##
 
 [msg MSG_191 [Фука]]
@@ -1745,7 +1745,7 @@
 ##-[s]You should rest![n][w][e]-##
 [s][bup 6 1 65535 0]Кстати, сегодня вечером у нас будет[n]небольшое совещание по поводу операции.[n][w][e]
 ##-[s][bup 6 1 65535 0]By the way, we're going to have[n]a quick meeting tonight about[n]the operation.[n][w][e]-##
-[s]Не забудь. После школы мы должны[n]собраться в общежитии на совещание.[n][w][e]
+[s]Не забудь. После уроков мы должны[n]собраться в общежитии на совещание.[n][w][e]
 ##-[s]Don't forget, now. We'll meet at[n]the dorm after school.[n][w][e]-##
 
 [msg MSG_192 [Джунпей]]
@@ -2811,7 +2811,7 @@
 ##-[s][bup 6 2 65535 0]Now that's our [f 4 2]-chan![n][w][e]-##
 [s][bup 6 1 65535 0]Сегодня вечером у нас будет небольшое[n]совещание по поводу операции.[n][w][e]
 ##-[s][bup 6 1 65535 0]We're going to have a quick meeting[n]tonight about the operation.[n][w][e]-##
-[s]Поэтому, пожалуйста, сразу после школы[n]вернись в общежитие.[n][w][e]
+[s]Поэтому, пожалуйста, сразу после уроков[n]вернись в общежитие.[n][w][e]
 ##-[s]So, please return to the dorm immediately[n]after school.[n][w][e]-##
 
 [msg MSG_311 [Фука]]
@@ -2821,7 +2821,7 @@
 ##-[s]You should rest![n][w][e]-##
 [s][bup 6 1 65535 0]Кстати, сегодня вечером у нас будет[n]небольшое совещание по поводу операции.[n][w][e]
 ##-[s][bup 6 1 65535 0]By the way, we're going to have[n]a quick meeting tonight about[n]the operation.[n][w][e]-##
-[s]Пожалуйста, не забуь. Сразу после школы[n]мы все встречаемся в общежитии.[n][w][e]
+[s]Пожалуйста, не забуь. Сразу после уроков[n]мы все встречаемся в общежитии.[n][w][e]
 ##-[s]Don't forget, now. We'll meet at[n]the dorm after school.[n][w][e]-##
 
 [msg MSG_312 [Джунпей]]
@@ -2919,7 +2919,7 @@
 ##-[s][bup 7 1 65535 0]I already talked to Мицуру, and she was[n]fine with it. Good luck.[n][w][e]-##
 [s][bup 7 2 65535 0]На следующей неделе[n]моя жизнь наконец-то вернётся[n]в нормальное русло.[n][w][e]
 ##-[s][bup 7 2 65535 0]My lifestyle's finally gonna be back[n]to normal starting next week.[n][w][e]-##
-[s]О, и если ты как-нибудь захочешь перекусить,[n][clr 2]я свободен после школы по понедельникам и[n]пятницам. В эти дни мой клуб не работает[clr 0].[n][w][e]
+[s]О, и если ты как-нибудь захочешь перекусить,[n][clr 2]я свободен после уроков по понедельникам и[n]пятницам. В эти дни мой клуб не работает[clr 0].[n][w][e]
 ##-[s]Oh, if you wanna grab food sometime,[n]I'm [clr 2]bored after school on Mondays and[n]Fridays since there's no club meetings[clr 0].[n][w][e]-##
 [s]Обычно я прохлаждаюсь недалеко от клуба,[n]так что... Эй, разве это не[n]звонок звенит?[n][w][e]
 ##-[s]I'm usually near the clubroom building,[n]so... Hey, wasn't that the warning[n]bell?[n][w][e]-##
@@ -2933,7 +2933,7 @@
 ##-[s]I already talked to Мицуру, and she was[n]fine with it. Good luck.[n][w][e]-##
 [s][bup 7 2 65535 0]На следующей неделе[n]моя жизнь наконец-то вернётся[n]в нормальное русло.[n][w][e]
 ##-[s][bup 7 2 65535 0]My lifestyle's finally gonna be back[n]to normal starting next week.[n][w][e]-##
-[s]О, и если ты как-нибудь захочешь перекусить,[n][clr 2]я свободен после школы по понедельникам и[n]пятницам. В эти дни мой клуб не работает[clr 0].[n][w][e]
+[s]О, и если ты как-нибудь захочешь перекусить,[n][clr 2]я свободен после уроков по понедельникам и[n]пятницам. В эти дни мой клуб не работает[clr 0].[n][w][e]
 ##-[s]Oh, if you wanna grab food sometime,[n]I'm [clr 2]bored after school on Mondays and[n]Fridays since there's no club meetings[clr 0].[n][w][e]-##
 [s]Обычно я прохлаждаюсь недалеко от клуба,[n]так что... Эй, разве это не[n]звонок звенит?[n][w][e]
 ##-[s]I'm usually near the clubroom building,[n]so... Hey, wasn't that the warning[n]bell?[n][w][e]-##
